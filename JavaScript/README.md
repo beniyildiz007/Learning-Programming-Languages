@@ -5,3 +5,5 @@ Web alanında profesyonelleşmek için çalıştığım uygulamalar, yaptığım
 ![SoloLearn JavaScript Sertifikası](javascript-sololearn.jpg)
 
 ![Yazılım Atölyesi JavaScript Sertifikası](javascript-yazilimatolyesi.jpeg)
+
+![Mimo Web Development Certificate](web_development-mimo.jpg)
