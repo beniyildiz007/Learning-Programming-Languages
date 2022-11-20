@@ -3,3 +3,4 @@ Web alanında profesyonelleşmek için çalıştığım uygulamalar, yaptığım
 
 ## Certificates
 ![SoloLearn JavaScript Sertifikası](javascript-sololearn.jpg)
+![Yazılım Atölyesi JavaScript Sertifikası](javascript-yazilimatolyesi.jpeg)
