@@ -20,7 +20,7 @@
 
 ```
 
-# dom.js
+# prompt.js
 
 ```javascript
 
