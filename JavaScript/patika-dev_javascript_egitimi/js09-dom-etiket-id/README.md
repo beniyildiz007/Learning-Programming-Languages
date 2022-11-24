@@ -30,7 +30,7 @@
 
 ```
 
-# dom.js
+# etiket-id-oge.js
 
 ```javascript
 
