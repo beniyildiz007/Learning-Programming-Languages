@@ -18,6 +18,7 @@
 
 ```
 
+# string.js
 ```javascript
 
 // String veri türü işlemleri:
