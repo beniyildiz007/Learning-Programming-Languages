@@ -26,7 +26,7 @@
 
 ```
 
-# ornek.js
+# kosul.js
 
 ```javascript
 
