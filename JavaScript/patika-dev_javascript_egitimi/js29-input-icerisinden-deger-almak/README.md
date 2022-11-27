@@ -1,0 +1,57 @@
+# index.html
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+</head>
+<body>
+    <h1>Frontend 101 Eğitimi - Hakan Yalçınkaya</h1>
+
+    <h2 id="info"></h2>
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-sm-8 offset-sm-2">
+                <form id="userForm">
+                    <input type="number" name="score" id="score"> <!--name kısmı url üzerinde gözüken isimdir-->
+                    <button type="reset" class="btn btn-danger">Sıfırla</button>
+                    <button type="submit" class="btn btn-success">Gönder</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <script src="input-deger-almak.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+
+</body>
+</html>
+
+```
+# input-deger-almak.js
+```javascript
+
+// Formlarda input içerisindeki değerleri(value) almak:
+
+let formDOM = document.querySelector("#userForm")
+formDOM.addEventListener("submit",formSubmit)
+
+function formSubmit(event){
+    event.preventDefault() // Yazının göründükten sonra silinmemesini sağlıyor
+    console.log("işlem gerçekleşti")
+
+    let scoreInputDOM=document.querySelector("#score")
+    console.log(scoreInputDOM.value)
+    localStorage.setItem('score',scoreInputDOM.value)
+}
+
+```
