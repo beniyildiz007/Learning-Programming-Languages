@@ -15,6 +15,7 @@
     ?></p>
     <p><?php echo("Kaçış karakteri \ ile belirtildikten sonra görünmemesini istediğimiz karakter yazılır:") ?></p>
     <p><b><?php echo("\\\" ifadesi çift tırnak karakterinden kaçmamızı sağlamaktadır.") ?></b></p>
+    <!-- Output => \" ifadesi çift tırnak karakterinden kaçmamızı sağlamaktadır. -->
 </div>
 </body>
 </html>
