@@ -14,10 +14,10 @@ $sekiladedi = 4;
 ?>
 <div>
     <p><?php echo("Şekil adedi $sekiladedi tane bulunmaktadır!")?></p>
+    <!-- Output => Şekil adedi 4 tane bulunmaktadır! -->
 </div>
 </body>
 </html>
-
 
 
 ```
