@@ -24,7 +24,7 @@
 </body>
 </html>
 ```
-# ornek.js
+# filter.js
 ```javascript
 // Array filter kullanımı
 
