@@ -21,7 +21,7 @@
 </body>
 </html>
 ```
-# ornek.js
+# object.js
 ```javascript
 // Object (nesne) nedir? Nasıl oluşturulur?
 
