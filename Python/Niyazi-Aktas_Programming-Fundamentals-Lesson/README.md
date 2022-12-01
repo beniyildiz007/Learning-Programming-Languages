@@ -1,20 +1,46 @@
 # Niyazi Aktas hocama en derin sevgilerimle...
 Marmara Üniversitesi Temel Programlama dersinde işlediğimiz Python ile ilgili 5 aylık konu anlatımı ve örnek uygulamaları burada görebilirsiniz.
 
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+>_Bilgi başarı getirmez, yalnızca başarı başarıyı getirir._
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+## İçindekiler (Contents)
+1. [Hello World](#hello-world)
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
+### Hello World! <a name="hello-world"></a>
+```python
+print("Hello World!")
+# Output => Hello World
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
 
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
+
+print("Hello World!")
+print("Hello World!")
+print("Hello World!")
+# Output:
+"""Hello World!
+Hello World!
+Hello World!"""
+
+
+
+
+w = "python"
+n = 10
+
+print(w.capitalize()) # capitalize metodu cümlenin ilk harini büyük yapar
+# Output => Python
+
+print(n.bit_length()) # bit_length metodu İkili sistemde bir tamsayıyı temsil etmek için gereken bit sayısını verir
+# Output => 4
+
+help(w.capitalize) # Help metodu ise mevcut fonksiyon ile ilgili yardımcı bilgiler verir
+# Output:
+"""Help on built-in function capitalize:
+
+capitalize() method of builtins.str instance
+    Return a capitalized version of the string.
+
+    More specifically, make the first character have upper case and the rest 
+lower
+    case."""
+```
