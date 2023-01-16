@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\03-Int_Degiskenler\bin\Debug\03-Int_Degiskenler.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\03-Int_Degiskenler\bin\Debug\03-Int_Degiskenler.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\03-Int_Degiskenler\bin\Debug\03-Int_Degiskenler.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\03-Int_Degiskenler\obj\Debug\03-Int_Degiskenler.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\03-Int_Degiskenler\obj\Debug\03-Int_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\03-Int_Degiskenler\obj\Debug\03-Int_Degiskenler.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\03-Int_Degiskenler\obj\Debug\03-Int_Degiskenler.pdb
