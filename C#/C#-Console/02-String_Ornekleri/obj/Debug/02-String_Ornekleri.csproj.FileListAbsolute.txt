@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\02-String_Ornekleri\bin\Debug\02-String_Ornekleri.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\02-String_Ornekleri\bin\Debug\02-String_Ornekleri.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\02-String_Ornekleri\bin\Debug\02-String_Ornekleri.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\02-String_Ornekleri\obj\Debug\02-String_Ornekleri.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\02-String_Ornekleri\obj\Debug\02-String_Ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\02-String_Ornekleri\obj\Debug\02-String_Ornekleri.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\02-String_Ornekleri\obj\Debug\02-String_Ornekleri.pdb
