@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\04-Aritmetik_İslem_Uygulamasi\bin\Debug\04-Aritmetik_İslem_Uygulamasi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\04-Aritmetik_İslem_Uygulamasi\bin\Debug\04-Aritmetik_İslem_Uygulamasi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\04-Aritmetik_İslem_Uygulamasi\bin\Debug\04-Aritmetik_İslem_Uygulamasi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\04-Aritmetik_İslem_Uygulamasi\obj\Debug\04-Aritmetik_İslem_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\04-Aritmetik_İslem_Uygulamasi\obj\Debug\04-Aritmetik_İslem_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\04-Aritmetik_İslem_Uygulamasi\obj\Debug\04-Aritmetik_İslem_Uygulamasi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\04-Aritmetik_İslem_Uygulamasi\obj\Debug\04-Aritmetik_İslem_Uygulamasi.pdb

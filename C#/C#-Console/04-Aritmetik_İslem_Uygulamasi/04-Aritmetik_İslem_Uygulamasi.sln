@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Aritmetik_İslem_Uygulamasi", "04-Aritmetik_İslem_Uygulamasi.csproj", "{996161E2-F51F-4514-ACEC-3BB66F531236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996161E2-F51F-4514-ACEC-3BB66F531236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996161E2-F51F-4514-ACEC-3BB66F531236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996161E2-F51F-4514-ACEC-3BB66F531236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996161E2-F51F-4514-ACEC-3BB66F531236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6C3A5D-4BD7-4A27-B6F0-307E85BD5B42}
+	EndGlobalSection
+EndGlobal
