@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\09-Switch_Case_Yapisi\bin\Debug\09-Switch_Case_Yapisi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\09-Switch_Case_Yapisi\bin\Debug\09-Switch_Case_Yapisi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\09-Switch_Case_Yapisi\bin\Debug\09-Switch_Case_Yapisi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\09-Switch_Case_Yapisi\obj\Debug\09-Switch_Case_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\09-Switch_Case_Yapisi\obj\Debug\09-Switch_Case_Yapisi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\09-Switch_Case_Yapisi\obj\Debug\09-Switch_Case_Yapisi.pdb
