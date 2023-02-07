@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\06-If_Else_Yapisi_1\bin\Debug\06-If_Else_Yapisi_1.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\06-If_Else_Yapisi_1\bin\Debug\06-If_Else_Yapisi_1.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\06-If_Else_Yapisi_1\bin\Debug\06-If_Else_Yapisi_1.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\06-If_Else_Yapisi_1\obj\Debug\06-If_Else_Yapisi_1.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\06-If_Else_Yapisi_1\obj\Debug\06-If_Else_Yapisi_1.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\06-If_Else_Yapisi_1\obj\Debug\06-If_Else_Yapisi_1.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\06-If_Else_Yapisi_1\obj\Debug\06-If_Else_Yapisi_1.pdb
