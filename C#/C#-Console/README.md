@@ -307,7 +307,7 @@ namespace _05_Double_Degiskenler
 
 # IF - ELSE Yapısı 1
 ```c#
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -412,7 +412,7 @@ namespace _06_If_Else_Yapisi_1
 
 # IF - ELSE Yapısı 2
 ```c#
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -478,6 +478,371 @@ namespace _07_If_Else_Yapisi_2
                 Console.WriteLine("Sayı 5'e tam bölünemez!!");
             }
             Console.ReadLine();
+        }
+    }
+}
+
+```
+
+# IF - ELSE Yapısı 3
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _08_If_Else_Yapisi_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+            string mevsim;
+            Console.Write("Lütfen bir mevsim giriniz: ");
+            mevsim = Console.ReadLine();
+
+            if (mevsim == "kış")
+            {
+                Console.Write("Kış mevsimi ayları: Aralık - Ocak - Şubat");
+            }
+            else if (mevsim == "ilkbahar")
+            {
+                Console.Write("İlkbahar mevsimi ayları: Mart - Nisan - Mayıs");
+            }
+            else if (mevsim == "yaz")
+            {
+                Console.Write("Yaz mevsimi ayları: Haziran - Temmuz - Ağustos");
+            }
+            else if (mevsim == "sonbahar")
+            {
+                Console.Write("Sonbahar mevsimi ayları: Eylül - Ekim - Kasım");
+            }
+
+            Console.ReadLine();
+            */
+
+
+            Console.WriteLine("*** Ali Amcanın Kitapçı Dükkanı ***");
+
+            double x, indirim, odenecek;
+            Console.Write("Alışveriş Tutarını Girin: ");
+            x = Convert.ToDouble(Console.ReadLine());
+
+            if (x < 100)
+            {
+                indirim = x * 10 / 100;
+                odenecek = x - indirim;
+                Console.WriteLine("Uygulanacak İndirim= " + indirim);
+                Console.Write("Toplam Miktar= " + odenecek);
+            }
+            if (x >= 100 && x < 150)
+            {
+                indirim = x * 15 / 100;
+                odenecek = x - indirim;
+                Console.WriteLine("Uygulanacak İndirim= " + indirim);
+                Console.Write("Toplam Miktar= " + odenecek);
+            }
+            if (x >= 150 && x < 200)
+            {
+                indirim = x * 20 / 100;
+                odenecek = x - indirim;
+                Console.WriteLine("Uygulanacak İndirim= " + indirim);
+                Console.Write("Toplam Miktar= " + odenecek);
+            }
+            if (x >= 200)
+            {
+                indirim = x * 30 / 100;
+                odenecek = x - indirim;
+                Console.WriteLine("Uygulanacak İndirim= " + indirim);
+                Console.Write("Toplam Miktar= " + odenecek);
+            }
+
+            Console.Read();
+
+        }
+    }
+}
+
+```
+
+# Switch - Case Yapısı
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _09_Switch_Case_Yapisi
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+            int sayi;
+            Console.WriteLine("1 ile 7 arasında bir sayı giriniz:");
+            sayi = Convert.ToInt16(Console.ReadLine());
+
+            switch (sayi)
+            {
+                case 1:
+                    Console.WriteLine("Gün = Pazartesi");
+                    break;
+                case 2:
+                    Console.WriteLine("Gün = Salı");
+                    break;
+                case 3:
+                    Console.WriteLine("Gün = Çarşamba");
+                    break;
+                case 4:
+                    Console.WriteLine("Gün = Perşembe");
+                    break;
+                case 5:
+                    Console.WriteLine("Gün = Cuma");
+                    break;
+                case 6:
+                    Console.WriteLine("Gün = Cumartesi");
+                    break;
+                case 7:
+                    Console.WriteLine("Gün = Pazar");
+                    break;
+                default:
+                    Console.WriteLine("Hatalı Gün Girişi!");
+                    break;
+            }
+
+            Console.ReadLine();
+            */
+
+
+            string mevsim;
+            Console.WriteLine("Lütfen mevsimi küçük harflerle giriniz: ");
+            mevsim = Console.ReadLine();
+
+            switch (mevsim)
+            {
+                case "yaz":
+                    Console.WriteLine("Yaz mevsimi ayları = Haziran - Temmuz - Ağustos");
+                    break;
+                case "sonbahar":
+                    Console.WriteLine("Sonbahar mevsimi ayları = Eylül - Ekim - Kasım");
+                    break;
+                case "kış":
+                    Console.WriteLine("Kış mevsimi ayları = Aralık - Ocak - Şubat");
+                    break;
+                case "ilkbahar":
+                    Console.WriteLine("İlkbahar mevsimi ayları = Mart - Nisan - Mayıs");
+                    break;
+                default:
+                    Console.WriteLine("Hatalı Mevsim Girişi!");
+                    break;
+            }
+            Console.ReadLine();
+        }
+    }
+}
+
+```
+
+# Döngüler 1
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _10_Donguler_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+            int i;
+            for (i = 1; i <= 10; i++)
+            {
+                Console.WriteLine("Hello World");
+            }
+            Console.ReadLine();
+            */
+
+
+            /*
+            int i;
+            for (i = 1; i <= 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadLine();
+            */
+
+
+
+            /*
+            int i;
+            for (i = 1; i <= 10; i+=3)
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadLine();
+            //Output = 1 4 7 10
+            */
+
+
+            /*
+            int i;
+            int toplam = 0;
+
+            for (i = 1; i <= 10; i++)
+            {
+                toplam += i;
+            }
+            Console.WriteLine("Toplam = " + toplam);
+            Console.ReadLine();
+            //Output = 55
+            */
+
+
+            int i;
+            int toplam = 0;
+
+            for (i = 1; i <= 10; i+=2)
+            {
+                toplam += i;
+            }
+            Console.WriteLine("Toplam = " + toplam);
+            Console.ReadLine();
+            //Output = 25
+
+
+
+        }
+    }
+}
+
+```
+
+# Döngüler 2
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _11_Donguler_2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+            //120 Sayısının Bölenleri:
+            int sayi = 120;
+            for(int i = 1; i < 120; i++)
+            {
+                if (sayi % i == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+            Console.ReadLine();
+            */
+
+
+            int a = 1, b = 1;
+            int c;
+
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+
+            for(int i = 1; i <= 8; i++)
+            {
+                c = a + b;
+                a = b;
+                b = c;
+                Console.WriteLine(c);
+            }
+
+            Console.ReadLine();
+        }
+    }
+}
+
+```
+
+# While Döngüsü
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _12_While_Dongusu
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+            int i;
+            i = 1;
+            while (i < 10)
+            {
+                Console.WriteLine("Hey Sen!");
+                i++;
+            }
+            Console.ReadLine();
+            */
+
+
+            /*
+            int i;
+            i = 1;
+            while (i < 400)
+            {
+                Console.WriteLine(i);
+                i++;
+                //1-399 arası bütün sayılar yazılır, 400 YAZILMAZ!
+            }
+            Console.ReadLine();
+            */
+
+
+            /*
+            int sayi;
+            Console.WriteLine("Bir sayı girin: ");
+            sayi = Convert.ToInt32(Console.ReadLine());
+
+            while (sayi % 2 == 0)
+            {
+                Console.WriteLine("Bir sayı girin: ");
+                sayi = Convert.ToInt32(Console.ReadLine());
+            }
+            Console.WriteLine("Tek sayı girdiniz!");
+            Console.ReadLine();
+            */
+
+
+            
+            int sayi;
+            Console.WriteLine("Faktoriyeli alınacak sayıyı girin:");
+            sayi = Convert.ToInt32(Console.ReadLine());
+            int fakt = 1;
+
+            while (sayi > 1)
+            {
+                fakt = fakt * sayi;
+                sayi--;
+            }
+            Console.WriteLine(fakt);
+            Console.Read();
+
         }
     }
 }
