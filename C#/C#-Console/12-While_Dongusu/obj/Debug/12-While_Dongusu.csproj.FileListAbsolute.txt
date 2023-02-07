@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\12-While_Dongusu\bin\Debug\12-While_Dongusu.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\12-While_Dongusu\bin\Debug\12-While_Dongusu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\12-While_Dongusu\bin\Debug\12-While_Dongusu.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\12-While_Dongusu\obj\Debug\12-While_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\12-While_Dongusu\obj\Debug\12-While_Dongusu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\12-While_Dongusu\obj\Debug\12-While_Dongusu.pdb
