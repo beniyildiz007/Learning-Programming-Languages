@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\05-Double_Degiskenler\bin\Debug\05-Double_Degiskenler.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\05-Double_Degiskenler\bin\Debug\05-Double_Degiskenler.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\05-Double_Degiskenler\bin\Debug\05-Double_Degiskenler.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\05-Double_Degiskenler\obj\Debug\05-Double_Degiskenler.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\05-Double_Degiskenler\obj\Debug\05-Double_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\05-Double_Degiskenler\obj\Debug\05-Double_Degiskenler.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\05-Double_Degiskenler\obj\Debug\05-Double_Degiskenler.pdb
