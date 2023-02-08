@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\18-Char_Degiskeni\bin\Debug\18-Char_Degiskeni.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\18-Char_Degiskeni\bin\Debug\18-Char_Degiskeni.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\18-Char_Degiskeni\bin\Debug\18-Char_Degiskeni.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\18-Char_Degiskeni\obj\Debug\18-Char_Degiskeni.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\18-Char_Degiskeni\obj\Debug\18-Char_Degiskeni.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\18-Char_Degiskeni\obj\Debug\18-Char_Degiskeni.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\18-Char_Degiskeni\obj\Debug\18-Char_Degiskeni.pdb
