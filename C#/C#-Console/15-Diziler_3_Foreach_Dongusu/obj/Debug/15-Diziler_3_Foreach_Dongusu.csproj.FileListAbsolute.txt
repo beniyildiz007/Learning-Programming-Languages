@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\15-Diziler_3_Foreach_Dongusu\bin\Debug\15-Diziler_3_Foreach_Dongusu.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\15-Diziler_3_Foreach_Dongusu\bin\Debug\15-Diziler_3_Foreach_Dongusu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\15-Diziler_3_Foreach_Dongusu\bin\Debug\15-Diziler_3_Foreach_Dongusu.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\15-Diziler_3_Foreach_Dongusu\obj\Debug\15-Diziler_3_Foreach_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\15-Diziler_3_Foreach_Dongusu\obj\Debug\15-Diziler_3_Foreach_Dongusu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\15-Diziler_3_Foreach_Dongusu\obj\Debug\15-Diziler_3_Foreach_Dongusu.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\15-Diziler_3_Foreach_Dongusu\obj\Debug\15-Diziler_3_Foreach_Dongusu.csproj.AssemblyReference.cache
