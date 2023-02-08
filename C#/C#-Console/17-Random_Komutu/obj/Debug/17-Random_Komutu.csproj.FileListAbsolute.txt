@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\17-Random_Komutu\bin\Debug\17-Random_Komutu.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\17-Random_Komutu\bin\Debug\17-Random_Komutu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\17-Random_Komutu\bin\Debug\17-Random_Komutu.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\17-Random_Komutu\obj\Debug\17-Random_Komutu.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\17-Random_Komutu\obj\Debug\17-Random_Komutu.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\17-Random_Komutu\obj\Debug\17-Random_Komutu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\17-Random_Komutu\obj\Debug\17-Random_Komutu.pdb
