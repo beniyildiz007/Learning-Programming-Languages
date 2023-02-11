@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\22-Bool_Degiskeni\bin\Debug\22-Bool_Degiskeni.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\22-Bool_Degiskeni\bin\Debug\22-Bool_Degiskeni.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\22-Bool_Degiskeni\bin\Debug\22-Bool_Degiskeni.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\22-Bool_Degiskeni\obj\Debug\22-Bool_Degiskeni.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\22-Bool_Degiskeni\obj\Debug\22-Bool_Degiskeni.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\22-Bool_Degiskeni\obj\Debug\22-Bool_Degiskeni.pdb
