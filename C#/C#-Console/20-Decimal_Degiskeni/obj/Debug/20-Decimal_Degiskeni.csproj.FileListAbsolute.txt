@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\20-Decimal_Degiskeni\bin\Debug\20-Decimal_Degiskeni.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\20-Decimal_Degiskeni\bin\Debug\20-Decimal_Degiskeni.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\20-Decimal_Degiskeni\bin\Debug\20-Decimal_Degiskeni.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\20-Decimal_Degiskeni\obj\Debug\20-Decimal_Degiskeni.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\20-Decimal_Degiskeni\obj\Debug\20-Decimal_Degiskeni.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\20-Decimal_Degiskeni\obj\Debug\20-Decimal_Degiskeni.pdb
