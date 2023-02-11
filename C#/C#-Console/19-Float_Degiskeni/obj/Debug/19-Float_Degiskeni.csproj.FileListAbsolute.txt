@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\19-Float_Degiskeni\bin\Debug\19-Float_Degiskeni.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\19-Float_Degiskeni\bin\Debug\19-Float_Degiskeni.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\19-Float_Degiskeni\bin\Debug\19-Float_Degiskeni.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\19-Float_Degiskeni\obj\Debug\19-Float_Degiskeni.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\19-Float_Degiskeni\obj\Debug\19-Float_Degiskeni.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\19-Float_Degiskeni\obj\Debug\19-Float_Degiskeni.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\19-Float_Degiskeni\obj\Debug\19-Float_Degiskeni.pdb
