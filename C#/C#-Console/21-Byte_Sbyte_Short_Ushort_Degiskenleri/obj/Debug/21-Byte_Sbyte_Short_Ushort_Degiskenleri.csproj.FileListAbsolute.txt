@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\21-Byte_Sbyte_Short_Ushort_Degiskenleri\bin\Debug\21-Byte_Sbyte_Short_Ushort_Degiskenleri.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\21-Byte_Sbyte_Short_Ushort_Degiskenleri\bin\Debug\21-Byte_Sbyte_Short_Ushort_Degiskenleri.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\21-Byte_Sbyte_Short_Ushort_Degiskenleri\bin\Debug\21-Byte_Sbyte_Short_Ushort_Degiskenleri.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\21-Byte_Sbyte_Short_Ushort_Degiskenleri\obj\Debug\21-Byte_Sbyte_Short_Ushort_Degiskenleri.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\21-Byte_Sbyte_Short_Ushort_Degiskenleri\obj\Debug\21-Byte_Sbyte_Short_Ushort_Degiskenleri.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\21-Byte_Sbyte_Short_Ushort_Degiskenleri\obj\Debug\21-Byte_Sbyte_Short_Ushort_Degiskenleri.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\21-Byte_Sbyte_Short_Ushort_Degiskenleri\obj\Debug\21-Byte_Sbyte_Short_Ushort_Degiskenleri.pdb
