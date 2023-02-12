@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\25-Cok_Boyutlu_Diziler_2\bin\Debug\25-Cok_Boyutlu_Diziler_2.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\25-Cok_Boyutlu_Diziler_2\bin\Debug\25-Cok_Boyutlu_Diziler_2.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\25-Cok_Boyutlu_Diziler_2\bin\Debug\25-Cok_Boyutlu_Diziler_2.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\25-Cok_Boyutlu_Diziler_2\obj\Debug\25-Cok_Boyutlu_Diziler_2.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\25-Cok_Boyutlu_Diziler_2\obj\Debug\25-Cok_Boyutlu_Diziler_2.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\25-Cok_Boyutlu_Diziler_2\obj\Debug\25-Cok_Boyutlu_Diziler_2.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\25-Cok_Boyutlu_Diziler_2\obj\Debug\25-Cok_Boyutlu_Diziler_2.pdb
