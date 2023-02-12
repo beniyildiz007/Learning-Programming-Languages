@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\23-Arka_Plan_Rengi_Degistirme\bin\Debug\23-Arka_Plan_Rengi_Degistirme.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\23-Arka_Plan_Rengi_Degistirme\bin\Debug\23-Arka_Plan_Rengi_Degistirme.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\23-Arka_Plan_Rengi_Degistirme\bin\Debug\23-Arka_Plan_Rengi_Degistirme.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\23-Arka_Plan_Rengi_Degistirme\obj\Debug\23-Arka_Plan_Rengi_Degistirme.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\23-Arka_Plan_Rengi_Degistirme\obj\Debug\23-Arka_Plan_Rengi_Degistirme.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\23-Arka_Plan_Rengi_Degistirme\obj\Debug\23-Arka_Plan_Rengi_Degistirme.pdb
