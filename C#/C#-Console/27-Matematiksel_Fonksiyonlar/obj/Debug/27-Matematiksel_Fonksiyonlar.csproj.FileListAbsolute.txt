@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\27-Matematiksel_Fonksiyonlar\bin\Debug\27-Matematiksel_Fonksiyonlar.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\27-Matematiksel_Fonksiyonlar\bin\Debug\27-Matematiksel_Fonksiyonlar.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\27-Matematiksel_Fonksiyonlar\bin\Debug\27-Matematiksel_Fonksiyonlar.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\27-Matematiksel_Fonksiyonlar\obj\Debug\27-Matematiksel_Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\27-Matematiksel_Fonksiyonlar\obj\Debug\27-Matematiksel_Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\27-Matematiksel_Fonksiyonlar\obj\Debug\27-Matematiksel_Fonksiyonlar.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\27-Matematiksel_Fonksiyonlar\obj\Debug\27-Matematiksel_Fonksiyonlar.pdb
