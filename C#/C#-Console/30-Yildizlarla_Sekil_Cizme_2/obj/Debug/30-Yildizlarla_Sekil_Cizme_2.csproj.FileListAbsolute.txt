@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\30-Yildizlarla_Sekil_Cizme_2\bin\Debug\30-Yildizlarla_Sekil_Cizme_2.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\30-Yildizlarla_Sekil_Cizme_2\bin\Debug\30-Yildizlarla_Sekil_Cizme_2.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\30-Yildizlarla_Sekil_Cizme_2\bin\Debug\30-Yildizlarla_Sekil_Cizme_2.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\30-Yildizlarla_Sekil_Cizme_2\obj\Debug\30-Yildizlarla_Sekil_Cizme_2.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\30-Yildizlarla_Sekil_Cizme_2\obj\Debug\30-Yildizlarla_Sekil_Cizme_2.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\30-Yildizlarla_Sekil_Cizme_2\obj\Debug\30-Yildizlarla_Sekil_Cizme_2.pdb
