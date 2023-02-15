@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\31-Yildizlarla_Sekil_Cizme_3\bin\Debug\31-Yildizlarla_Sekil_Cizme_3.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\31-Yildizlarla_Sekil_Cizme_3\bin\Debug\31-Yildizlarla_Sekil_Cizme_3.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\31-Yildizlarla_Sekil_Cizme_3\bin\Debug\31-Yildizlarla_Sekil_Cizme_3.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\31-Yildizlarla_Sekil_Cizme_3\obj\Debug\31-Yildizlarla_Sekil_Cizme_3.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\31-Yildizlarla_Sekil_Cizme_3\obj\Debug\31-Yildizlarla_Sekil_Cizme_3.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\31-Yildizlarla_Sekil_Cizme_3\obj\Debug\31-Yildizlarla_Sekil_Cizme_3.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\31-Yildizlarla_Sekil_Cizme_3\obj\Debug\31-Yildizlarla_Sekil_Cizme_3.pdb
