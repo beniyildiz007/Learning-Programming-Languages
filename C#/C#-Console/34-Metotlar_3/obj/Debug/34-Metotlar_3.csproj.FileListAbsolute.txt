@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\34-Metotlar_3\bin\Debug\34-Metotlar_3.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\34-Metotlar_3\bin\Debug\34-Metotlar_3.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\34-Metotlar_3\bin\Debug\34-Metotlar_3.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\34-Metotlar_3\obj\Debug\34-Metotlar_3.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\34-Metotlar_3\obj\Debug\34-Metotlar_3.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\34-Metotlar_3\obj\Debug\34-Metotlar_3.pdb
