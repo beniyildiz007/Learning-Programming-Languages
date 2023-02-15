@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\28-Zaman_Fonksiyonlari\bin\Debug\28-Zaman_Fonksiyonlari.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\28-Zaman_Fonksiyonlari\bin\Debug\28-Zaman_Fonksiyonlari.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\28-Zaman_Fonksiyonlari\bin\Debug\28-Zaman_Fonksiyonlari.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\28-Zaman_Fonksiyonlari\obj\Debug\28-Zaman_Fonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\28-Zaman_Fonksiyonlari\obj\Debug\28-Zaman_Fonksiyonlari.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\28-Zaman_Fonksiyonlari\obj\Debug\28-Zaman_Fonksiyonlari.pdb
