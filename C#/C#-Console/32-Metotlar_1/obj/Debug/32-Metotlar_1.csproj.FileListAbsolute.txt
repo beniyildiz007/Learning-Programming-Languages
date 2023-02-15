@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\32-Metotlar_1\bin\Debug\32-Metotlar_1.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\32-Metotlar_1\bin\Debug\32-Metotlar_1.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\32-Metotlar_1\bin\Debug\32-Metotlar_1.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\32-Metotlar_1\obj\Debug\32-Metotlar_1.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\32-Metotlar_1\obj\Debug\32-Metotlar_1.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\32-Metotlar_1\obj\Debug\32-Metotlar_1.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\32-Metotlar_1\obj\Debug\32-Metotlar_1.pdb
