@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\36-Siniflar_Get-Set_Kavrami\bin\Debug\36-Siniflar_Get-Set_Kavrami.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\36-Siniflar_Get-Set_Kavrami\bin\Debug\36-Siniflar_Get-Set_Kavrami.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\36-Siniflar_Get-Set_Kavrami\bin\Debug\36-Siniflar_Get-Set_Kavrami.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\36-Siniflar_Get-Set_Kavrami\obj\Debug\36-Siniflar_Get-Set_Kavrami.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\36-Siniflar_Get-Set_Kavrami\obj\Debug\36-Siniflar_Get-Set_Kavrami.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\36-Siniflar_Get-Set_Kavrami\obj\Debug\36-Siniflar_Get-Set_Kavrami.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\36-Siniflar_Get-Set_Kavrami\obj\Debug\36-Siniflar_Get-Set_Kavrami.pdb
