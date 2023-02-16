@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\35-Sinif_Yapisi\bin\Debug\35-Sinif_Yapisi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\35-Sinif_Yapisi\bin\Debug\35-Sinif_Yapisi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\35-Sinif_Yapisi\bin\Debug\35-Sinif_Yapisi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\35-Sinif_Yapisi\obj\Debug\35-Sinif_Yapisi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\35-Sinif_Yapisi\obj\Debug\35-Sinif_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\35-Sinif_Yapisi\obj\Debug\35-Sinif_Yapisi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\35-Sinif_Yapisi\obj\Debug\35-Sinif_Yapisi.pdb
