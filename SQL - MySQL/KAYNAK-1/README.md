@@ -1,1 +1,8 @@
-deneme
+# 01- Create
+```sql
+Create Table TBL_DERSLER
+(
+DERS_ID tinyint,
+DERS_AD varchar(20)
+)
+```
