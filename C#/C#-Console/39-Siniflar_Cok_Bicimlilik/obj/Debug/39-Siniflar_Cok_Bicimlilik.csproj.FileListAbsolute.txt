@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\39-Siniflar_Cok_Bicimlilik\bin\Debug\39-Siniflar_Cok_Bicimlilik.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\39-Siniflar_Cok_Bicimlilik\bin\Debug\39-Siniflar_Cok_Bicimlilik.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\39-Siniflar_Cok_Bicimlilik\bin\Debug\39-Siniflar_Cok_Bicimlilik.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\39-Siniflar_Cok_Bicimlilik\obj\Debug\39-Siniflar_Cok_Bicimlilik.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\39-Siniflar_Cok_Bicimlilik\obj\Debug\39-Siniflar_Cok_Bicimlilik.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\39-Siniflar_Cok_Bicimlilik\obj\Debug\39-Siniflar_Cok_Bicimlilik.pdb
