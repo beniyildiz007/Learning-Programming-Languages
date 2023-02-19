@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\38-Siniflar_Kalitim\bin\Debug\38-Siniflar_Kalitim.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\38-Siniflar_Kalitim\bin\Debug\38-Siniflar_Kalitim.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\38-Siniflar_Kalitim\bin\Debug\38-Siniflar_Kalitim.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\38-Siniflar_Kalitim\obj\Debug\38-Siniflar_Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\38-Siniflar_Kalitim\obj\Debug\38-Siniflar_Kalitim.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\38-Siniflar_Kalitim\obj\Debug\38-Siniflar_Kalitim.pdb
