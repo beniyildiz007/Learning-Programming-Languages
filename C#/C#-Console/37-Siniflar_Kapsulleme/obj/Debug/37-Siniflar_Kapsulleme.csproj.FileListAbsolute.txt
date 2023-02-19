@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\37-Siniflar_Kapsulleme\bin\Debug\37-Siniflar_Kapsulleme.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\37-Siniflar_Kapsulleme\bin\Debug\37-Siniflar_Kapsulleme.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\37-Siniflar_Kapsulleme\bin\Debug\37-Siniflar_Kapsulleme.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\37-Siniflar_Kapsulleme\obj\Debug\37-Siniflar_Kapsulleme.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\37-Siniflar_Kapsulleme\obj\Debug\37-Siniflar_Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\37-Siniflar_Kapsulleme\obj\Debug\37-Siniflar_Kapsulleme.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\37-Siniflar_Kapsulleme\obj\Debug\37-Siniflar_Kapsulleme.pdb
