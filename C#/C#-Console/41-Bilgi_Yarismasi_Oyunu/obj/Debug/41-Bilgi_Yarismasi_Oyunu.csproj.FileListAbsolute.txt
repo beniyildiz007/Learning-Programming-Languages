@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\41-Bilgi_Yarismasi_Oyunu\bin\Debug\41-Bilgi_Yarismasi_Oyunu.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\41-Bilgi_Yarismasi_Oyunu\bin\Debug\41-Bilgi_Yarismasi_Oyunu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\41-Bilgi_Yarismasi_Oyunu\bin\Debug\41-Bilgi_Yarismasi_Oyunu.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\41-Bilgi_Yarismasi_Oyunu\obj\Debug\41-Bilgi_Yarismasi_Oyunu.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\41-Bilgi_Yarismasi_Oyunu\obj\Debug\41-Bilgi_Yarismasi_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\41-Bilgi_Yarismasi_Oyunu\obj\Debug\41-Bilgi_Yarismasi_Oyunu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\41-Bilgi_Yarismasi_Oyunu\obj\Debug\41-Bilgi_Yarismasi_Oyunu.pdb
