@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\42-Matematik_Menusu_Projesi\bin\Debug\42-Matematik_Menusu_Projesi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\42-Matematik_Menusu_Projesi\bin\Debug\42-Matematik_Menusu_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\42-Matematik_Menusu_Projesi\bin\Debug\42-Matematik_Menusu_Projesi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\42-Matematik_Menusu_Projesi\obj\Debug\42-Matematik_Menusu_Projesi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\42-Matematik_Menusu_Projesi\obj\Debug\42-Matematik_Menusu_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\42-Matematik_Menusu_Projesi\obj\Debug\42-Matematik_Menusu_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\42-Matematik_Menusu_Projesi\obj\Debug\42-Matematik_Menusu_Projesi.pdb
