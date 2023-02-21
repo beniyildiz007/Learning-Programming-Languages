@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\43-Sayi_Tamin_Oyunu\bin\Debug\43-Sayi_Tamin_Oyunu.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\43-Sayi_Tamin_Oyunu\bin\Debug\43-Sayi_Tamin_Oyunu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\43-Sayi_Tamin_Oyunu\bin\Debug\43-Sayi_Tamin_Oyunu.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\43-Sayi_Tamin_Oyunu\obj\Debug\43-Sayi_Tamin_Oyunu.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\43-Sayi_Tamin_Oyunu\obj\Debug\43-Sayi_Tamin_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\43-Sayi_Tamin_Oyunu\obj\Debug\43-Sayi_Tamin_Oyunu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\43-Sayi_Tamin_Oyunu\obj\Debug\43-Sayi_Tamin_Oyunu.pdb
