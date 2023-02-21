@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\45-Rastgele_Lig_1\bin\Debug\45-Rastgele_Lig_1.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\45-Rastgele_Lig_1\bin\Debug\45-Rastgele_Lig_1.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\45-Rastgele_Lig_1\bin\Debug\45-Rastgele_Lig_1.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\45-Rastgele_Lig_1\obj\Debug\45-Rastgele_Lig_1.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\45-Rastgele_Lig_1\obj\Debug\45-Rastgele_Lig_1.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\45-Rastgele_Lig_1\obj\Debug\45-Rastgele_Lig_1.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\45-Rastgele_Lig_1\obj\Debug\45-Rastgele_Lig_1.pdb
