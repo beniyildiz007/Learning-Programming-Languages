@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\44-Muzik_Oynatma\bin\Debug\44-Muzik_Oynatma.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\44-Muzik_Oynatma\bin\Debug\44-Muzik_Oynatma.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\44-Muzik_Oynatma\bin\Debug\44-Muzik_Oynatma.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\44-Muzik_Oynatma\obj\Debug\44-Muzik_Oynatma.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\44-Muzik_Oynatma\obj\Debug\44-Muzik_Oynatma.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\44-Muzik_Oynatma\obj\Debug\44-Muzik_Oynatma.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\44-Muzik_Oynatma\obj\Debug\44-Muzik_Oynatma.pdb
