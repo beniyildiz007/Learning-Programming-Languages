@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\48-Metin_Belgesi_Kayit_Uygulamasi\bin\Debug\48-Metin_Belgesi_Kayit_Uygulamasi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\48-Metin_Belgesi_Kayit_Uygulamasi\bin\Debug\48-Metin_Belgesi_Kayit_Uygulamasi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\48-Metin_Belgesi_Kayit_Uygulamasi\bin\Debug\48-Metin_Belgesi_Kayit_Uygulamasi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\48-Metin_Belgesi_Kayit_Uygulamasi\obj\Debug\48-Metin_Belgesi_Kayit_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\48-Metin_Belgesi_Kayit_Uygulamasi\obj\Debug\48-Metin_Belgesi_Kayit_Uygulamasi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\48-Metin_Belgesi_Kayit_Uygulamasi\obj\Debug\48-Metin_Belgesi_Kayit_Uygulamasi.pdb
