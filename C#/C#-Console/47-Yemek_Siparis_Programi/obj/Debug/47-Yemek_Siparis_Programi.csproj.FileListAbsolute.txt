@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\47-Yemek_Siparis_Programi\bin\Debug\47-Yemek_Siparis_Programi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\47-Yemek_Siparis_Programi\bin\Debug\47-Yemek_Siparis_Programi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\47-Yemek_Siparis_Programi\bin\Debug\47-Yemek_Siparis_Programi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\47-Yemek_Siparis_Programi\obj\Debug\47-Yemek_Siparis_Programi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\47-Yemek_Siparis_Programi\obj\Debug\47-Yemek_Siparis_Programi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\47-Yemek_Siparis_Programi\obj\Debug\47-Yemek_Siparis_Programi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Console\47-Yemek_Siparis_Programi\obj\Debug\47-Yemek_Siparis_Programi.pdb
