@@ -29,7 +29,7 @@ int main(int argc, char *argv[]) {
 }
 
 ```
-# Metinsel Değişkenler ve Harf Dizinleri
+# 02- Metinsel Değişkenler ve Harf Dizinleri
 ```c
 #include <stdio.h>
 #include <stdlib.h>
