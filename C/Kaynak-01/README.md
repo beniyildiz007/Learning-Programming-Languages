@@ -85,7 +85,7 @@ int main() {
 
 ```
 
-# Scanf Fonksiyonu
+# 03- Scanf Fonksiyonu
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -137,7 +137,7 @@ int main() { // main içerisindeki veirler silindiğinde de program çalışabil
 }
 ```
 
-# Integer Değişkenler
+# 04- Integer Değişkenler
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -222,7 +222,7 @@ int main() {
 }
 ```
 
-# Integer Değişkenlerde Klavyeden Veri Girişi
+# 05- Integer Değişkenlerde Klavyeden Veri Girişi
 ```c
 #include <stdio.h>
 #include <stdlib.h>
