@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\07-Ingılızce_Kelime_Ogren_Projesi\bin\Debug\07-Ingılızce_Kelime_Ogren_Projesi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\07-Ingılızce_Kelime_Ogren_Projesi\bin\Debug\07-Ingılızce_Kelime_Ogren_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\07-Ingılızce_Kelime_Ogren_Projesi\bin\Debug\07-Ingılızce_Kelime_Ogren_Projesi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\07-Ingılızce_Kelime_Ogren_Projesi\obj\Debug\07-Ingılızce_Kelime_Ogren_Projesi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\07-Ingılızce_Kelime_Ogren_Projesi\obj\Debug\_07_Ingılızce_Kelime_Ogren_Projesi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\07-Ingılızce_Kelime_Ogren_Projesi\obj\Debug\_07_Ingılızce_Kelime_Ogren_Projesi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\07-Ingılızce_Kelime_Ogren_Projesi\obj\Debug\07-Ingılızce_Kelime_Ogren_Projesi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\07-Ingılızce_Kelime_Ogren_Projesi\obj\Debug\07-Ingılızce_Kelime_Ogren_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\07-Ingılızce_Kelime_Ogren_Projesi\obj\Debug\07-Ingılızce_Kelime_Ogren_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\07-Ingılızce_Kelime_Ogren_Projesi\obj\Debug\07-Ingılızce_Kelime_Ogren_Projesi.pdb
