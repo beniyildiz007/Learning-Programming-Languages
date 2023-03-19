@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\04-Masked_Picture_Datetime\bin\Debug\04-Masked_Picture_Datetime.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\04-Masked_Picture_Datetime\bin\Debug\04-Masked_Picture_Datetime.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\04-Masked_Picture_Datetime\bin\Debug\04-Masked_Picture_Datetime.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\04-Masked_Picture_Datetime\obj\Debug\04-Masked_Picture_Datetime.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\04-Masked_Picture_Datetime\obj\Debug\_04_Masked_Picture_Datetime.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\04-Masked_Picture_Datetime\obj\Debug\_04_Masked_Picture_Datetime.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\04-Masked_Picture_Datetime\obj\Debug\04-Masked_Picture_Datetime.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\04-Masked_Picture_Datetime\obj\Debug\04-Masked_Picture_Datetime.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\04-Masked_Picture_Datetime\obj\Debug\04-Masked_Picture_Datetime.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\04-Masked_Picture_Datetime\obj\Debug\04-Masked_Picture_Datetime.pdb

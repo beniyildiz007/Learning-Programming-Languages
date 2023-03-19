@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\01-Merhaba_Dunya\01-Merhaba_Dunya\bin\Debug\01-Merhaba_Dunya.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\01-Merhaba_Dunya\01-Merhaba_Dunya\bin\Debug\01-Merhaba_Dunya.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\01-Merhaba_Dunya\01-Merhaba_Dunya\bin\Debug\01-Merhaba_Dunya.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\01-Merhaba_Dunya\01-Merhaba_Dunya\obj\Debug\01-Merhaba_Dunya.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\01-Merhaba_Dunya\01-Merhaba_Dunya\obj\Debug\_01_Merhaba_Dunya.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\01-Merhaba_Dunya\01-Merhaba_Dunya\obj\Debug\_01_Merhaba_Dunya.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\01-Merhaba_Dunya\01-Merhaba_Dunya\obj\Debug\01-Merhaba_Dunya.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\01-Merhaba_Dunya\01-Merhaba_Dunya\obj\Debug\01-Merhaba_Dunya.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\01-Merhaba_Dunya\01-Merhaba_Dunya\obj\Debug\01-Merhaba_Dunya.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\01-Merhaba_Dunya\01-Merhaba_Dunya\obj\Debug\01-Merhaba_Dunya.pdb

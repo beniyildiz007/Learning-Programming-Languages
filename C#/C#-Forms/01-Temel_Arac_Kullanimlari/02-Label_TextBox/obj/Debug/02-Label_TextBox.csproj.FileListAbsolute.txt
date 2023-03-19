@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\02-Label_TextBox\bin\Debug\02-Label_TextBox.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\02-Label_TextBox\bin\Debug\02-Label_TextBox.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\02-Label_TextBox\bin\Debug\02-Label_TextBox.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\02-Label_TextBox\obj\Debug\02-Label_TextBox.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\02-Label_TextBox\obj\Debug\_02_Label_TextBox.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\02-Label_TextBox\obj\Debug\_02_Label_TextBox.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\02-Label_TextBox\obj\Debug\02-Label_TextBox.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\02-Label_TextBox\obj\Debug\02-Label_TextBox.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\02-Label_TextBox\obj\Debug\02-Label_TextBox.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\02-Label_TextBox\obj\Debug\02-Label_TextBox.pdb

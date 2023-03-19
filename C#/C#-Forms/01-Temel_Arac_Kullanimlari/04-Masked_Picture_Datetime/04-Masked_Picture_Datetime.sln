@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Masked_Picture_Datetime", "04-Masked_Picture_Datetime.csproj", "{8CD3B9A2-8312-46D5-BB0F-6F82340B910C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CD3B9A2-8312-46D5-BB0F-6F82340B910C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD3B9A2-8312-46D5-BB0F-6F82340B910C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD3B9A2-8312-46D5-BB0F-6F82340B910C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD3B9A2-8312-46D5-BB0F-6F82340B910C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B86FC67C-13C2-4CF9-89DB-C440A85981B4}
+	EndGlobalSection
+EndGlobal
