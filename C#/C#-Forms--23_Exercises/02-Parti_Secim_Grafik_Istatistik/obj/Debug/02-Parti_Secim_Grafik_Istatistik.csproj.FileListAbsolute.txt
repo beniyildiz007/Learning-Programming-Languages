@@ -1,0 +1,11 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\bin\Debug\02-Parti_Secim_Grafik_Istatistik.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\bin\Debug\02-Parti_Secim_Grafik_Istatistik.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\bin\Debug\02-Parti_Secim_Grafik_Istatistik.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\obj\Debug\02-Parti_Secim_Grafik_Istatistik.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\obj\Debug\_02_Parti_Secim_Grafik_Istatistik.frmOyGiris.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\obj\Debug\_02_Parti_Secim_Grafik_Istatistik.frmGrafikler.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\obj\Debug\_02_Parti_Secim_Grafik_Istatistik.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\obj\Debug\02-Parti_Secim_Grafik_Istatistik.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\obj\Debug\02-Parti_Secim_Grafik_Istatistik.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\obj\Debug\02-Parti_Secim_Grafik_Istatistik.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\02-Parti_Secim_Grafik_Istatistik\obj\Debug\02-Parti_Secim_Grafik_Istatistik.pdb

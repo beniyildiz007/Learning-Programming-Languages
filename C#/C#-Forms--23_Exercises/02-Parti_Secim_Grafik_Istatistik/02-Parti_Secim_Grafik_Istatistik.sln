@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Parti_Secim_Grafik_Istatistik", "02-Parti_Secim_Grafik_Istatistik.csproj", "{45A2D44B-6F5C-4ED9-A56D-487206FA6036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A2D44B-6F5C-4ED9-A56D-487206FA6036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A2D44B-6F5C-4ED9-A56D-487206FA6036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A2D44B-6F5C-4ED9-A56D-487206FA6036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A2D44B-6F5C-4ED9-A56D-487206FA6036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DD1242D-8AC1-420D-A6D9-16E06E50A381}
+	EndGlobalSection
+EndGlobal

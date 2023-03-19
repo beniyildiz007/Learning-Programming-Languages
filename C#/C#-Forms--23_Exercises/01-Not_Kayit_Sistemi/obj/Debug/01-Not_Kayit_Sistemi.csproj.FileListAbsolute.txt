@@ -1,0 +1,12 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\bin\Debug\01-Not_Kayit_Sistemi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\bin\Debug\01-Not_Kayit_Sistemi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\bin\Debug\01-Not_Kayit_Sistemi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\obj\Debug\01-Not_Kayit_Sistemi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\obj\Debug\_01_Not_Kayit_Sistemi.frmOgrenciGiris.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\obj\Debug\_01_Not_Kayit_Sistemi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\obj\Debug\01-Not_Kayit_Sistemi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\obj\Debug\01-Not_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\obj\Debug\01-Not_Kayit_Sistemi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\obj\Debug\01-Not_Kayit_Sistemi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\obj\Debug\_01_Not_Kayit_Sistemi.frmOgrenciDetay.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\01-Not_Kayit_Sistemi\obj\Debug\_01_Not_Kayit_Sistemi.frmOgretmenDetay.resources
