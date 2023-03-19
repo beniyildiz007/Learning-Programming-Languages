@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\18-Benzin_Istasyonu\bin\Debug\18-Benzin_Istasyonu.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\18-Benzin_Istasyonu\bin\Debug\18-Benzin_Istasyonu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\18-Benzin_Istasyonu\bin\Debug\18-Benzin_Istasyonu.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\18-Benzin_Istasyonu\obj\Debug\18-Benzin_Istasyonu.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\18-Benzin_Istasyonu\obj\Debug\_18_Benzin_Istasyonu.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\18-Benzin_Istasyonu\obj\Debug\_18_Benzin_Istasyonu.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\18-Benzin_Istasyonu\obj\Debug\18-Benzin_Istasyonu.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\18-Benzin_Istasyonu\obj\Debug\18-Benzin_Istasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\18-Benzin_Istasyonu\obj\Debug\18-Benzin_Istasyonu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\18-Benzin_Istasyonu\obj\Debug\18-Benzin_Istasyonu.pdb

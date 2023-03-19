@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\19-Resim_Uzerine_Yazi\bin\Debug\19-Resim_Uzerine_Yazi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\19-Resim_Uzerine_Yazi\bin\Debug\19-Resim_Uzerine_Yazi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\19-Resim_Uzerine_Yazi\bin\Debug\19-Resim_Uzerine_Yazi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\19-Resim_Uzerine_Yazi\obj\Debug\_19_Resim_Uzerine_Yazi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\19-Resim_Uzerine_Yazi\obj\Debug\_19_Resim_Uzerine_Yazi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\19-Resim_Uzerine_Yazi\obj\Debug\19-Resim_Uzerine_Yazi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\19-Resim_Uzerine_Yazi\obj\Debug\19-Resim_Uzerine_Yazi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\19-Resim_Uzerine_Yazi\obj\Debug\19-Resim_Uzerine_Yazi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\19-Resim_Uzerine_Yazi\obj\Debug\19-Resim_Uzerine_Yazi.pdb

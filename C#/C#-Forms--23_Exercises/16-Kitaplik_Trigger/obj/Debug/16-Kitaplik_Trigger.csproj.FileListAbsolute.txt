@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\16-Kitaplik_Trigger\bin\Debug\16-Kitaplik_Trigger.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\16-Kitaplik_Trigger\bin\Debug\16-Kitaplik_Trigger.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\16-Kitaplik_Trigger\bin\Debug\16-Kitaplik_Trigger.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\16-Kitaplik_Trigger\obj\Debug\16-Kitaplik_Trigger.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\16-Kitaplik_Trigger\obj\Debug\_16_Kitaplik_Trigger.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\16-Kitaplik_Trigger\obj\Debug\_16_Kitaplik_Trigger.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\16-Kitaplik_Trigger\obj\Debug\16-Kitaplik_Trigger.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\16-Kitaplik_Trigger\obj\Debug\16-Kitaplik_Trigger.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\16-Kitaplik_Trigger\obj\Debug\16-Kitaplik_Trigger.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\16-Kitaplik_Trigger\obj\Debug\16-Kitaplik_Trigger.pdb
