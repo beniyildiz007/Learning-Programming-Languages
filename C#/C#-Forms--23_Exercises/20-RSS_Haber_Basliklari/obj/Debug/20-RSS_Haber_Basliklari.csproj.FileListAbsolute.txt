@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\20-RSS_Haber_Basliklari\bin\Debug\20-RSS_Haber_Basliklari.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\20-RSS_Haber_Basliklari\bin\Debug\20-RSS_Haber_Basliklari.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\20-RSS_Haber_Basliklari\bin\Debug\20-RSS_Haber_Basliklari.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\20-RSS_Haber_Basliklari\obj\Debug\20-RSS_Haber_Basliklari.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\20-RSS_Haber_Basliklari\obj\Debug\_20_RSS_Haber_Basliklari.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\20-RSS_Haber_Basliklari\obj\Debug\_20_RSS_Haber_Basliklari.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\20-RSS_Haber_Basliklari\obj\Debug\20-RSS_Haber_Basliklari.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\20-RSS_Haber_Basliklari\obj\Debug\20-RSS_Haber_Basliklari.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\20-RSS_Haber_Basliklari\obj\Debug\20-RSS_Haber_Basliklari.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\20-RSS_Haber_Basliklari\obj\Debug\20-RSS_Haber_Basliklari.pdb

@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\21-List_Ogrenci_Bilgileri_Kaydetme\bin\Debug\21-List_Ogrenci_Bilgileri_Kaydetme.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\21-List_Ogrenci_Bilgileri_Kaydetme\bin\Debug\21-List_Ogrenci_Bilgileri_Kaydetme.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\21-List_Ogrenci_Bilgileri_Kaydetme\bin\Debug\21-List_Ogrenci_Bilgileri_Kaydetme.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\21-List_Ogrenci_Bilgileri_Kaydetme\obj\Debug\_21_List_Ogrenci_Bilgileri_Kaydetme.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\21-List_Ogrenci_Bilgileri_Kaydetme\obj\Debug\_21_List_Ogrenci_Bilgileri_Kaydetme.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\21-List_Ogrenci_Bilgileri_Kaydetme\obj\Debug\21-List_Ogrenci_Bilgileri_Kaydetme.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\21-List_Ogrenci_Bilgileri_Kaydetme\obj\Debug\21-List_Ogrenci_Bilgileri_Kaydetme.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\21-List_Ogrenci_Bilgileri_Kaydetme\obj\Debug\21-List_Ogrenci_Bilgileri_Kaydetme.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\21-List_Ogrenci_Bilgileri_Kaydetme\obj\Debug\21-List_Ogrenci_Bilgileri_Kaydetme.pdb

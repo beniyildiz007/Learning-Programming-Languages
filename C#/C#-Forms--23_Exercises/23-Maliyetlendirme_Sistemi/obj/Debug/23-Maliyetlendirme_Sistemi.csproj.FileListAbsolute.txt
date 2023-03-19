@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\23-Maliyetlendirme_Sistemi\bin\Debug\23-Maliyetlendirme_Sistemi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\23-Maliyetlendirme_Sistemi\bin\Debug\23-Maliyetlendirme_Sistemi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\23-Maliyetlendirme_Sistemi\bin\Debug\23-Maliyetlendirme_Sistemi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\23-Maliyetlendirme_Sistemi\obj\Debug\23-Maliyetlendirme_Sistemi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\23-Maliyetlendirme_Sistemi\obj\Debug\_23_Maliyetlendirme_Sistemi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\23-Maliyetlendirme_Sistemi\obj\Debug\_23_Maliyetlendirme_Sistemi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\23-Maliyetlendirme_Sistemi\obj\Debug\23-Maliyetlendirme_Sistemi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\23-Maliyetlendirme_Sistemi\obj\Debug\23-Maliyetlendirme_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\23-Maliyetlendirme_Sistemi\obj\Debug\23-Maliyetlendirme_Sistemi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\23-Maliyetlendirme_Sistemi\obj\Debug\23-Maliyetlendirme_Sistemi.pdb
