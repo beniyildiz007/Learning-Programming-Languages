@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\05-Checkbox_Radiobutton\bin\Debug\05-Checkbox_Radiobutton.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\05-Checkbox_Radiobutton\bin\Debug\05-Checkbox_Radiobutton.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\05-Checkbox_Radiobutton\bin\Debug\05-Checkbox_Radiobutton.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\05-Checkbox_Radiobutton\obj\Debug\_05_Checkbox_Radiobutton.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\05-Checkbox_Radiobutton\obj\Debug\_05_Checkbox_Radiobutton.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\05-Checkbox_Radiobutton\obj\Debug\05-Checkbox_Radiobutton.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\05-Checkbox_Radiobutton\obj\Debug\05-Checkbox_Radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\05-Checkbox_Radiobutton\obj\Debug\05-Checkbox_Radiobutton.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\05-Checkbox_Radiobutton\obj\Debug\05-Checkbox_Radiobutton.pdb

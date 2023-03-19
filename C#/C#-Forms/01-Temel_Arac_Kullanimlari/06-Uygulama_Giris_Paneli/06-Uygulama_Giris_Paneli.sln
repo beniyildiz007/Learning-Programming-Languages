@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Uygulama_Giris_Paneli", "06-Uygulama_Giris_Paneli.csproj", "{D5802D79-F842-4AF1-9374-8D14480CFC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5802D79-F842-4AF1-9374-8D14480CFC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5802D79-F842-4AF1-9374-8D14480CFC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5802D79-F842-4AF1-9374-8D14480CFC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5802D79-F842-4AF1-9374-8D14480CFC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7EA490-2295-4152-A344-E6257BC75122}
+	EndGlobalSection
+EndGlobal

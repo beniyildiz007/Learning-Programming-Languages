@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\06-Uygulama_Giris_Paneli\bin\Debug\06-Uygulama_Giris_Paneli.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\06-Uygulama_Giris_Paneli\bin\Debug\06-Uygulama_Giris_Paneli.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\06-Uygulama_Giris_Paneli\bin\Debug\06-Uygulama_Giris_Paneli.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\06-Uygulama_Giris_Paneli\obj\Debug\_06_Uygulama_Giris_Paneli.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\06-Uygulama_Giris_Paneli\obj\Debug\_06_Uygulama_Giris_Paneli.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\06-Uygulama_Giris_Paneli\obj\Debug\06-Uygulama_Giris_Paneli.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\06-Uygulama_Giris_Paneli\obj\Debug\06-Uygulama_Giris_Paneli.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\06-Uygulama_Giris_Paneli\obj\Debug\06-Uygulama_Giris_Paneli.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\01-Temel_Arac_Kullanimlari\06-Uygulama_Giris_Paneli\obj\Debug\06-Uygulama_Giris_Paneli.pdb
