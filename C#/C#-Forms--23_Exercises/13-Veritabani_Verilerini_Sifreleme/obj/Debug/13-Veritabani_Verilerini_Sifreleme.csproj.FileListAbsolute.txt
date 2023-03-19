@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\13-Veritabani_Verilerini_Sifreleme\bin\Debug\13-Veritabani_Verilerini_Sifreleme.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\13-Veritabani_Verilerini_Sifreleme\bin\Debug\13-Veritabani_Verilerini_Sifreleme.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\13-Veritabani_Verilerini_Sifreleme\bin\Debug\13-Veritabani_Verilerini_Sifreleme.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\13-Veritabani_Verilerini_Sifreleme\obj\Debug\13-Veritabani_Verilerini_Sifreleme.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\13-Veritabani_Verilerini_Sifreleme\obj\Debug\_13_Veritabani_Verilerini_Sifreleme.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\13-Veritabani_Verilerini_Sifreleme\obj\Debug\_13_Veritabani_Verilerini_Sifreleme.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\13-Veritabani_Verilerini_Sifreleme\obj\Debug\13-Veritabani_Verilerini_Sifreleme.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\13-Veritabani_Verilerini_Sifreleme\obj\Debug\13-Veritabani_Verilerini_Sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\13-Veritabani_Verilerini_Sifreleme\obj\Debug\13-Veritabani_Verilerini_Sifreleme.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\13-Veritabani_Verilerini_Sifreleme\obj\Debug\13-Veritabani_Verilerini_Sifreleme.pdb

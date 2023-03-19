@@ -1,0 +1,12 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\bin\Debug\14-Banka_Simulasyonu.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\bin\Debug\14-Banka_Simulasyonu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\bin\Debug\14-Banka_Simulasyonu.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\obj\Debug\14-Banka_Simulasyonu.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\obj\Debug\_14_Banka_Simulasyonu.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\obj\Debug\_14_Banka_Simulasyonu.Form2.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\obj\Debug\_14_Banka_Simulasyonu.Form3.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\obj\Debug\_14_Banka_Simulasyonu.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\obj\Debug\14-Banka_Simulasyonu.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\obj\Debug\14-Banka_Simulasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\obj\Debug\14-Banka_Simulasyonu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\14-Banka_Simulasyonu\obj\Debug\14-Banka_Simulasyonu.pdb
