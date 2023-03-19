@@ -1,0 +1,11 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\bin\Debug\11-Mesajlasma_Uygulamasi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\bin\Debug\11-Mesajlasma_Uygulamasi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\bin\Debug\11-Mesajlasma_Uygulamasi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\obj\Debug\11-Mesajlasma_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\obj\Debug\_11_Mesajlasma_Uygulamasi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\obj\Debug\_11_Mesajlasma_Uygulamasi.Form2.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\obj\Debug\_11_Mesajlasma_Uygulamasi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\obj\Debug\11-Mesajlasma_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\obj\Debug\11-Mesajlasma_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\obj\Debug\11-Mesajlasma_Uygulamasi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\11-Mesajlasma_Uygulamasi\obj\Debug\11-Mesajlasma_Uygulamasi.pdb

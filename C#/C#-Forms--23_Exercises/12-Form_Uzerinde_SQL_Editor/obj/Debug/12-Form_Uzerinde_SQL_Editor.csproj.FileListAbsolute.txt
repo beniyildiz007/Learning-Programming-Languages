@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\12-Form_Uzerinde_SQL_Editor\bin\Debug\12-Form_Uzerinde_SQL_Editor.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\12-Form_Uzerinde_SQL_Editor\bin\Debug\12-Form_Uzerinde_SQL_Editor.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\12-Form_Uzerinde_SQL_Editor\bin\Debug\12-Form_Uzerinde_SQL_Editor.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\12-Form_Uzerinde_SQL_Editor\obj\Debug\12-Form_Uzerinde_SQL_Editor.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\12-Form_Uzerinde_SQL_Editor\obj\Debug\_12_Form_Uzerinde_SQL_Editor.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\12-Form_Uzerinde_SQL_Editor\obj\Debug\_12_Form_Uzerinde_SQL_Editor.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\12-Form_Uzerinde_SQL_Editor\obj\Debug\12-Form_Uzerinde_SQL_Editor.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\12-Form_Uzerinde_SQL_Editor\obj\Debug\12-Form_Uzerinde_SQL_Editor.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\12-Form_Uzerinde_SQL_Editor\obj\Debug\12-Form_Uzerinde_SQL_Editor.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\02-25_DERSTE_25_UYGULAMA\12-Form_Uzerinde_SQL_Editor\obj\Debug\12-Form_Uzerinde_SQL_Editor.pdb
