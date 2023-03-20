@@ -1,7 +1,7 @@
 # Niyazi Aktas hocama en derin sevgilerimle...
 Marmara Üniversitesi Temel Programlama dersinde işlediğimiz Python ile ilgili 5 aylık konu anlatımı ve örnek uygulamaları burada görebilirsiniz.
 
->_Bilgi başarı getirmez, yalnızca başarı başarıyı getirir._
+>_Büyük fikirler büyük başarılar getirmez, küçük başarılar büyük başarıları inşa eder._
 
 ## İçindekiler (Contents)
 1. [Hello World](#hello-world)
