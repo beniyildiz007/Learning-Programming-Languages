@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\12-Access_Veri_Tabani\bin\Debug\12-Access_Veri_Tabani.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\12-Access_Veri_Tabani\bin\Debug\12-Access_Veri_Tabani.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\12-Access_Veri_Tabani\bin\Debug\12-Access_Veri_Tabani.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\12-Access_Veri_Tabani\obj\Debug\12-Access_Veri_Tabani.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\12-Access_Veri_Tabani\obj\Debug\_12_Access_Veri_Tabani.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\12-Access_Veri_Tabani\obj\Debug\_12_Access_Veri_Tabani.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\12-Access_Veri_Tabani\obj\Debug\12-Access_Veri_Tabani.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\12-Access_Veri_Tabani\obj\Debug\12-Access_Veri_Tabani.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\12-Access_Veri_Tabani\obj\Debug\12-Access_Veri_Tabani.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\12-Access_Veri_Tabani\obj\Debug\12-Access_Veri_Tabani.pdb
