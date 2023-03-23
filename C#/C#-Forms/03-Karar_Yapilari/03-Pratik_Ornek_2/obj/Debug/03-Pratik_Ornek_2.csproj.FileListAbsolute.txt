@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\03-Pratik_Ornek_2\bin\Debug\03-Pratik_Ornek_2.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\03-Pratik_Ornek_2\bin\Debug\03-Pratik_Ornek_2.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\03-Pratik_Ornek_2\bin\Debug\03-Pratik_Ornek_2.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\03-Pratik_Ornek_2\obj\Debug\_03_Pratik_Ornek_2.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\03-Pratik_Ornek_2\obj\Debug\_03_Pratik_Ornek_2.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\03-Pratik_Ornek_2\obj\Debug\03-Pratik_Ornek_2.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\03-Pratik_Ornek_2\obj\Debug\03-Pratik_Ornek_2.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\03-Pratik_Ornek_2\obj\Debug\03-Pratik_Ornek_2.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\03-Pratik_Ornek_2\obj\Debug\03-Pratik_Ornek_2.pdb

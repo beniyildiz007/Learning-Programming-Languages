@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\04-Switch_Case\bin\Debug\04-Switch_Case.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\04-Switch_Case\bin\Debug\04-Switch_Case.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\04-Switch_Case\bin\Debug\04-Switch_Case.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\04-Switch_Case\obj\Debug\04-Switch_Case.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\04-Switch_Case\obj\Debug\_04_Switch_Case.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\04-Switch_Case\obj\Debug\_04_Switch_Case.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\04-Switch_Case\obj\Debug\04-Switch_Case.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\04-Switch_Case\obj\Debug\04-Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\04-Switch_Case\obj\Debug\04-Switch_Case.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\04-Switch_Case\obj\Debug\04-Switch_Case.pdb

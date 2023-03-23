@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\01-if_else\bin\Debug\01-if_else.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\01-if_else\bin\Debug\01-if_else.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\01-if_else\bin\Debug\01-if_else.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\01-if_else\obj\Debug\_01_if_else.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\01-if_else\obj\Debug\_01_if_else.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\01-if_else\obj\Debug\01-if_else.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\01-if_else\obj\Debug\01-if_else.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\01-if_else\obj\Debug\01-if_else.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\03-Karar_Yapilari\01-if_else\obj\Debug\01-if_else.pdb
