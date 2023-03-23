@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\08-Matematik_Fonksiyonlari\bin\Debug\08-Matematik_Fonksiyonlari.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\08-Matematik_Fonksiyonlari\bin\Debug\08-Matematik_Fonksiyonlari.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\08-Matematik_Fonksiyonlari\bin\Debug\08-Matematik_Fonksiyonlari.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\08-Matematik_Fonksiyonlari\obj\Debug\08-Matematik_Fonksiyonlari.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\08-Matematik_Fonksiyonlari\obj\Debug\_08_Matematik_Fonksiyonlari.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\08-Matematik_Fonksiyonlari\obj\Debug\_08_Matematik_Fonksiyonlari.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\08-Matematik_Fonksiyonlari\obj\Debug\08-Matematik_Fonksiyonlari.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\08-Matematik_Fonksiyonlari\obj\Debug\08-Matematik_Fonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\08-Matematik_Fonksiyonlari\obj\Debug\08-Matematik_Fonksiyonlari.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\08-Matematik_Fonksiyonlari\obj\Debug\08-Matematik_Fonksiyonlari.pdb

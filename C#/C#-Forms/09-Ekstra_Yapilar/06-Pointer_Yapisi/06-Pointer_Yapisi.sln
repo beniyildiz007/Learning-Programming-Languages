@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Pointer_Yapisi", "06-Pointer_Yapisi.csproj", "{131E4192-A9A7-4B8B-9BD9-6A5AA885C38A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131E4192-A9A7-4B8B-9BD9-6A5AA885C38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131E4192-A9A7-4B8B-9BD9-6A5AA885C38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131E4192-A9A7-4B8B-9BD9-6A5AA885C38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131E4192-A9A7-4B8B-9BD9-6A5AA885C38A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17DDB152-28A4-4ADF-8EA8-67DBD8B93A16}
+	EndGlobalSection
+EndGlobal

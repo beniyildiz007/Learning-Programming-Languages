@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\06-Pointer_Yapisi\bin\Debug\06-Pointer_Yapisi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\06-Pointer_Yapisi\bin\Debug\06-Pointer_Yapisi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\06-Pointer_Yapisi\bin\Debug\06-Pointer_Yapisi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\06-Pointer_Yapisi\obj\Debug\_06_Pointer_Yapisi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\06-Pointer_Yapisi\obj\Debug\_06_Pointer_Yapisi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\06-Pointer_Yapisi\obj\Debug\06-Pointer_Yapisi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\06-Pointer_Yapisi\obj\Debug\06-Pointer_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\06-Pointer_Yapisi\obj\Debug\06-Pointer_Yapisi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\06-Pointer_Yapisi\obj\Debug\06-Pointer_Yapisi.pdb

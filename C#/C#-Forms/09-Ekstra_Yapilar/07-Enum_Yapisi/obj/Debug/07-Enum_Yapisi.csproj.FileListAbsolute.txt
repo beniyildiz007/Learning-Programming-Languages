@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\07-Enum_Yapisi\bin\Debug\07-Enum_Yapisi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\07-Enum_Yapisi\bin\Debug\07-Enum_Yapisi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\07-Enum_Yapisi\bin\Debug\07-Enum_Yapisi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\07-Enum_Yapisi\obj\Debug\_07_Enum_Yapisi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\07-Enum_Yapisi\obj\Debug\_07_Enum_Yapisi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\07-Enum_Yapisi\obj\Debug\07-Enum_Yapisi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\07-Enum_Yapisi\obj\Debug\07-Enum_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\07-Enum_Yapisi\obj\Debug\07-Enum_Yapisi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\07-Enum_Yapisi\obj\Debug\07-Enum_Yapisi.pdb

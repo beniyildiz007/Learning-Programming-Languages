@@ -1,0 +1,11 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\bin\Debug\05-FormlarArasi_VeriTasima.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\bin\Debug\05-FormlarArasi_VeriTasima.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\bin\Debug\05-FormlarArasi_VeriTasima.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\obj\Debug\05-FormlarArasi_VeriTasima.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\obj\Debug\_05_FormlarArasi_VeriTasima.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\obj\Debug\_05_FormlarArasi_VeriTasima.Form2.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\obj\Debug\_05_FormlarArasi_VeriTasima.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\obj\Debug\05-FormlarArasi_VeriTasima.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\obj\Debug\05-FormlarArasi_VeriTasima.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\obj\Debug\05-FormlarArasi_VeriTasima.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\05-FormlarArasi_VeriTasima\obj\Debug\05-FormlarArasi_VeriTasima.pdb
