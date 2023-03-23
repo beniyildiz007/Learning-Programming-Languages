@@ -1,0 +1,7 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\03-Geriye_Deger_Donduren_Metot\bin\Debug\03-Geriye_Deger_Donduren_Metot.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\03-Geriye_Deger_Donduren_Metot\bin\Debug\03-Geriye_Deger_Donduren_Metot.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\03-Geriye_Deger_Donduren_Metot\bin\Debug\03-Geriye_Deger_Donduren_Metot.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\03-Geriye_Deger_Donduren_Metot\obj\Debug\03-Geriye_Deger_Donduren_Metot.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\03-Geriye_Deger_Donduren_Metot\obj\Debug\03-Geriye_Deger_Donduren_Metot.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\03-Geriye_Deger_Donduren_Metot\obj\Debug\03-Geriye_Deger_Donduren_Metot.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\03-Geriye_Deger_Donduren_Metot\obj\Debug\03-Geriye_Deger_Donduren_Metot.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-GeriyeDeger_Dondurmeyen_Metot", "02-GeriyeDeger_Dondurmeyen_Metot.csproj", "{31F732BC-86E0-4E8E-992B-1CEB8EE9296A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F732BC-86E0-4E8E-992B-1CEB8EE9296A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F732BC-86E0-4E8E-992B-1CEB8EE9296A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F732BC-86E0-4E8E-992B-1CEB8EE9296A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F732BC-86E0-4E8E-992B-1CEB8EE9296A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {700A881B-CA99-467E-9E9B-49E97F8EE85C}
+	EndGlobalSection
+EndGlobal

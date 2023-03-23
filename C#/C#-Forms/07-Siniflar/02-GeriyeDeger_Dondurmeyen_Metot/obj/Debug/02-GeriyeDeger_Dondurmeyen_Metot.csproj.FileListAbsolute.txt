@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\02-GeriyeDeger_Dondurmeyen_Metot\bin\Debug\02-GeriyeDeger_Dondurmeyen_Metot.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\02-GeriyeDeger_Dondurmeyen_Metot\bin\Debug\02-GeriyeDeger_Dondurmeyen_Metot.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\02-GeriyeDeger_Dondurmeyen_Metot\bin\Debug\02-GeriyeDeger_Dondurmeyen_Metot.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\02-GeriyeDeger_Dondurmeyen_Metot\obj\Debug\02-GeriyeDeger_Dondurmeyen_Metot.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\02-GeriyeDeger_Dondurmeyen_Metot\obj\Debug\02-GeriyeDeger_Dondurmeyen_Metot.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\02-GeriyeDeger_Dondurmeyen_Metot\obj\Debug\02-GeriyeDeger_Dondurmeyen_Metot.pdb

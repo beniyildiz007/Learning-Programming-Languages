@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\01-Sinif_Olusturma\bin\Debug\01-Sinif_Olusturma.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\01-Sinif_Olusturma\bin\Debug\01-Sinif_Olusturma.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\01-Sinif_Olusturma\bin\Debug\01-Sinif_Olusturma.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\01-Sinif_Olusturma\obj\Debug\01-Sinif_Olusturma.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\01-Sinif_Olusturma\obj\Debug\_01_Sinif_Olusturma.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\01-Sinif_Olusturma\obj\Debug\_01_Sinif_Olusturma.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\01-Sinif_Olusturma\obj\Debug\01-Sinif_Olusturma.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\01-Sinif_Olusturma\obj\Debug\01-Sinif_Olusturma.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\01-Sinif_Olusturma\obj\Debug\01-Sinif_Olusturma.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\01-Sinif_Olusturma\obj\Debug\01-Sinif_Olusturma.pdb

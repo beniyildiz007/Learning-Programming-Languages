@@ -1,0 +1,6 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\05-Constructor_Metotlar_2\obj\Debug\05-Constructor_Metotlar_2.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\05-Constructor_Metotlar_2\bin\Debug\05-Constructor_Metotlar_2.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\05-Constructor_Metotlar_2\bin\Debug\05-Constructor_Metotlar_2.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\05-Constructor_Metotlar_2\bin\Debug\05-Constructor_Metotlar_2.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\05-Constructor_Metotlar_2\obj\Debug\05-Constructor_Metotlar_2.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\07-Siniflar\05-Constructor_Metotlar_2\obj\Debug\05-Constructor_Metotlar_2.pdb
