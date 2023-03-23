@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\02-Chart_Araci_Kullanimi\bin\Debug\02-Chart_Araci_Kullanimi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\02-Chart_Araci_Kullanimi\bin\Debug\02-Chart_Araci_Kullanimi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\02-Chart_Araci_Kullanimi\bin\Debug\02-Chart_Araci_Kullanimi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\02-Chart_Araci_Kullanimi\obj\Debug\02-Chart_Araci_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\02-Chart_Araci_Kullanimi\obj\Debug\_02_Chart_Araci_Kullanimi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\02-Chart_Araci_Kullanimi\obj\Debug\_02_Chart_Araci_Kullanimi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\02-Chart_Araci_Kullanimi\obj\Debug\02-Chart_Araci_Kullanimi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\02-Chart_Araci_Kullanimi\obj\Debug\02-Chart_Araci_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\02-Chart_Araci_Kullanimi\obj\Debug\02-Chart_Araci_Kullanimi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\02-Chart_Araci_Kullanimi\obj\Debug\02-Chart_Araci_Kullanimi.pdb

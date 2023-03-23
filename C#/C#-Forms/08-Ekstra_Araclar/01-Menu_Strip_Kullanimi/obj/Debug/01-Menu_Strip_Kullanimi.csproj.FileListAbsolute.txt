@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\01-Menu_Strip_Kullanimi\bin\Debug\01-Menu_Strip_Kullanimi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\01-Menu_Strip_Kullanimi\bin\Debug\01-Menu_Strip_Kullanimi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\01-Menu_Strip_Kullanimi\bin\Debug\01-Menu_Strip_Kullanimi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\01-Menu_Strip_Kullanimi\obj\Debug\01-Menu_Strip_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\01-Menu_Strip_Kullanimi\obj\Debug\_01_Menu_Strip_Kullanimi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\01-Menu_Strip_Kullanimi\obj\Debug\_01_Menu_Strip_Kullanimi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\01-Menu_Strip_Kullanimi\obj\Debug\01-Menu_Strip_Kullanimi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\01-Menu_Strip_Kullanimi\obj\Debug\01-Menu_Strip_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\01-Menu_Strip_Kullanimi\obj\Debug\01-Menu_Strip_Kullanimi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\08-Ekstra_Araclar\01-Menu_Strip_Kullanimi\obj\Debug\01-Menu_Strip_Kullanimi.pdb
