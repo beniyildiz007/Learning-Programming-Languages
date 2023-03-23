@@ -1,0 +1,16 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\bin\Debug\06-Iliskili_Tablolar_ile_E-Okul_Projesi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\bin\Debug\06-Iliskili_Tablolar_ile_E-Okul_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\bin\Debug\06-Iliskili_Tablolar_ile_E-Okul_Projesi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\06-Iliskili_Tablolar_ile_E-Okul_Projesi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\_06_Iliskili_Tablolar_ile_E_Okul_Projesi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\_06_Iliskili_Tablolar_ile_E_Okul_Projesi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\06-Iliskili_Tablolar_ile_E-Okul_Projesi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\06-Iliskili_Tablolar_ile_E-Okul_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\06-Iliskili_Tablolar_ile_E-Okul_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\06-Iliskili_Tablolar_ile_E-Okul_Projesi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\_06_Iliskili_Tablolar_ile_E_Okul_Projesi.FrmOgrenciNotlar.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\_06_Iliskili_Tablolar_ile_E_Okul_Projesi.FrmOgretmen.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\_06_Iliskili_Tablolar_ile_E_Okul_Projesi.FrmKulup.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\_06_Iliskili_Tablolar_ile_E_Okul_Projesi.FrmDersler.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\_06_Iliskili_Tablolar_ile_E_Okul_Projesi.FrmOgrenci.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\06-Iliskili_Tablolar_ile_E-Okul_Projesi\obj\Debug\_06_Iliskili_Tablolar_ile_E_Okul_Projesi.FrmSinavNotlari.resources
