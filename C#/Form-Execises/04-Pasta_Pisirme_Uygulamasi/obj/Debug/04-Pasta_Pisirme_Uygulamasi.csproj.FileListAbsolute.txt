@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\04-Pasta_Pisirme_Uygulamasi\bin\Debug\04-Pasta_Pisirme_Uygulamasi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\04-Pasta_Pisirme_Uygulamasi\bin\Debug\04-Pasta_Pisirme_Uygulamasi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\04-Pasta_Pisirme_Uygulamasi\bin\Debug\04-Pasta_Pisirme_Uygulamasi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\04-Pasta_Pisirme_Uygulamasi\obj\Debug\04-Pasta_Pisirme_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\04-Pasta_Pisirme_Uygulamasi\obj\Debug\_04_Pasta_Pisirme_Uygulamasi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\04-Pasta_Pisirme_Uygulamasi\obj\Debug\_04_Pasta_Pisirme_Uygulamasi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\04-Pasta_Pisirme_Uygulamasi\obj\Debug\04-Pasta_Pisirme_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\04-Pasta_Pisirme_Uygulamasi\obj\Debug\04-Pasta_Pisirme_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\04-Pasta_Pisirme_Uygulamasi\obj\Debug\04-Pasta_Pisirme_Uygulamasi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\04-Pasta_Pisirme_Uygulamasi\obj\Debug\04-Pasta_Pisirme_Uygulamasi.pdb

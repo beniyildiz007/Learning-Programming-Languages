@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\03-Bilgi_Yarismasi_Projesi\obj\Debug\03-Bilgi_Yarismasi_Projesi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\03-Bilgi_Yarismasi_Projesi\obj\Debug\_03_Bilgi_Yarismasi_Projesi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\03-Bilgi_Yarismasi_Projesi\obj\Debug\_03_Bilgi_Yarismasi_Projesi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\03-Bilgi_Yarismasi_Projesi\obj\Debug\03-Bilgi_Yarismasi_Projesi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\03-Bilgi_Yarismasi_Projesi\obj\Debug\03-Bilgi_Yarismasi_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\03-Bilgi_Yarismasi_Projesi\bin\Debug\03-Bilgi_Yarismasi_Projesi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\03-Bilgi_Yarismasi_Projesi\bin\Debug\03-Bilgi_Yarismasi_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\03-Bilgi_Yarismasi_Projesi\bin\Debug\03-Bilgi_Yarismasi_Projesi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\03-Bilgi_Yarismasi_Projesi\obj\Debug\03-Bilgi_Yarismasi_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\03-Bilgi_Yarismasi_Projesi\obj\Debug\03-Bilgi_Yarismasi_Projesi.pdb
