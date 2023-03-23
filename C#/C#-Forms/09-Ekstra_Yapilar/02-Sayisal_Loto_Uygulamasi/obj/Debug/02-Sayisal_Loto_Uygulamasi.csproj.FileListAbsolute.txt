@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\02-Sayisal_Loto_Uygulamasi\bin\Debug\02-Sayisal_Loto_Uygulamasi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\02-Sayisal_Loto_Uygulamasi\bin\Debug\02-Sayisal_Loto_Uygulamasi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\02-Sayisal_Loto_Uygulamasi\bin\Debug\02-Sayisal_Loto_Uygulamasi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\02-Sayisal_Loto_Uygulamasi\obj\Debug\_02_Sayisal_Loto_Uygulamasi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\02-Sayisal_Loto_Uygulamasi\obj\Debug\_02_Sayisal_Loto_Uygulamasi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\02-Sayisal_Loto_Uygulamasi\obj\Debug\02-Sayisal_Loto_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\02-Sayisal_Loto_Uygulamasi\obj\Debug\02-Sayisal_Loto_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\02-Sayisal_Loto_Uygulamasi\obj\Debug\02-Sayisal_Loto_Uygulamasi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\02-Sayisal_Loto_Uygulamasi\obj\Debug\02-Sayisal_Loto_Uygulamasi.pdb

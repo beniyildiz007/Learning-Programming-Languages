@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\04-Formlar_Arasi_Gecis\bin\Debug\04-Formlar_Arasi_Gecis.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\04-Formlar_Arasi_Gecis\bin\Debug\04-Formlar_Arasi_Gecis.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\04-Formlar_Arasi_Gecis\bin\Debug\04-Formlar_Arasi_Gecis.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\04-Formlar_Arasi_Gecis\obj\Debug\_04_Formlar_Arasi_Gecis.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\04-Formlar_Arasi_Gecis\obj\Debug\_04_Formlar_Arasi_Gecis.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\04-Formlar_Arasi_Gecis\obj\Debug\04-Formlar_Arasi_Gecis.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\04-Formlar_Arasi_Gecis\obj\Debug\04-Formlar_Arasi_Gecis.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\04-Formlar_Arasi_Gecis\obj\Debug\04-Formlar_Arasi_Gecis.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\04-Formlar_Arasi_Gecis\obj\Debug\04-Formlar_Arasi_Gecis.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\04-Formlar_Arasi_Gecis\obj\Debug\_04_Formlar_Arasi_Gecis.Form2.resources
