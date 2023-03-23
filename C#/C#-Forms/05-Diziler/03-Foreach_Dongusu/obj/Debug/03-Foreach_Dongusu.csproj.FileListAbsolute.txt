@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\03-Foreach_Dongusu\bin\Debug\03-Foreach_Dongusu.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\03-Foreach_Dongusu\bin\Debug\03-Foreach_Dongusu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\03-Foreach_Dongusu\bin\Debug\03-Foreach_Dongusu.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\03-Foreach_Dongusu\obj\Debug\_03_Foreach_Dongusu.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\03-Foreach_Dongusu\obj\Debug\_03_Foreach_Dongusu.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\03-Foreach_Dongusu\obj\Debug\03-Foreach_Dongusu.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\03-Foreach_Dongusu\obj\Debug\03-Foreach_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\03-Foreach_Dongusu\obj\Debug\03-Foreach_Dongusu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\03-Foreach_Dongusu\obj\Debug\03-Foreach_Dongusu.pdb

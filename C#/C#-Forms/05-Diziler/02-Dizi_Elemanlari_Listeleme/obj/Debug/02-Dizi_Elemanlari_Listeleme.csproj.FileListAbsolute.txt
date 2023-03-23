@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\02-Dizi_Elemanlari_Listeleme\bin\Debug\02-Dizi_Elemanlari_Listeleme.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\02-Dizi_Elemanlari_Listeleme\bin\Debug\02-Dizi_Elemanlari_Listeleme.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\02-Dizi_Elemanlari_Listeleme\bin\Debug\02-Dizi_Elemanlari_Listeleme.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\02-Dizi_Elemanlari_Listeleme\obj\Debug\_02_Dizi_Elemanlari_Listeleme.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\02-Dizi_Elemanlari_Listeleme\obj\Debug\_02_Dizi_Elemanlari_Listeleme.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\02-Dizi_Elemanlari_Listeleme\obj\Debug\02-Dizi_Elemanlari_Listeleme.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\02-Dizi_Elemanlari_Listeleme\obj\Debug\02-Dizi_Elemanlari_Listeleme.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\02-Dizi_Elemanlari_Listeleme\obj\Debug\02-Dizi_Elemanlari_Listeleme.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\02-Dizi_Elemanlari_Listeleme\obj\Debug\02-Dizi_Elemanlari_Listeleme.pdb

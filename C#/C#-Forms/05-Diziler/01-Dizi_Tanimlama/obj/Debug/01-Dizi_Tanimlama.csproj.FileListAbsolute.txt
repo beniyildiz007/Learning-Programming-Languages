@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\01-Dizi_Tanimlama\bin\Debug\01-Dizi_Tanimlama.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\01-Dizi_Tanimlama\bin\Debug\01-Dizi_Tanimlama.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\01-Dizi_Tanimlama\bin\Debug\01-Dizi_Tanimlama.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\01-Dizi_Tanimlama\obj\Debug\01-Dizi_Tanimlama.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\01-Dizi_Tanimlama\obj\Debug\_01_Dizi_Tanimlama.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\01-Dizi_Tanimlama\obj\Debug\_01_Dizi_Tanimlama.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\01-Dizi_Tanimlama\obj\Debug\01-Dizi_Tanimlama.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\01-Dizi_Tanimlama\obj\Debug\01-Dizi_Tanimlama.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\01-Dizi_Tanimlama\obj\Debug\01-Dizi_Tanimlama.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\05-Diziler\01-Dizi_Tanimlama\obj\Debug\01-Dizi_Tanimlama.pdb
