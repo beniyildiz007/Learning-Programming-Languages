@@ -26,9 +26,9 @@
 21. [Byte - Sbyte - Short - Ushort Değişkenleri](#p21)
 22. [Bool Değişkeni](#p22)
 23. [Arka Plan Rengi Değiştirme](#p23)
-24. [Çok Boyutlu Diziler 1](#p24]
-25. [Çok Boyutlu Diziler 2](#p25]
-26. [Çok Boyutlu Diziler 3](#p26]
+24. [Çok Boyutlu Diziler 1](#p24)
+25. [Çok Boyutlu Diziler 2](#p25)
+26. [Çok Boyutlu Diziler 3](#p26)
 27. [Matematiksel Fonksiyonlar](#p27)
 28. [Zaman Fonksiyonları](#p28)
 29. [Yıldızlarla Şekil Çizme 1](#p29)
