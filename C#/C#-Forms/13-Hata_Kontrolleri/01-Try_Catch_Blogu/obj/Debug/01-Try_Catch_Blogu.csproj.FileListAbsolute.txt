@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\13-Hata_Kontrolleri\01-Try_Catch_Blogu\bin\Debug\01-Try_Catch_Blogu.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\13-Hata_Kontrolleri\01-Try_Catch_Blogu\bin\Debug\01-Try_Catch_Blogu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\13-Hata_Kontrolleri\01-Try_Catch_Blogu\bin\Debug\01-Try_Catch_Blogu.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\13-Hata_Kontrolleri\01-Try_Catch_Blogu\obj\Debug\01-Try_Catch_Blogu.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\13-Hata_Kontrolleri\01-Try_Catch_Blogu\obj\Debug\_01_Try_Catch_Blogu.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\13-Hata_Kontrolleri\01-Try_Catch_Blogu\obj\Debug\_01_Try_Catch_Blogu.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\13-Hata_Kontrolleri\01-Try_Catch_Blogu\obj\Debug\01-Try_Catch_Blogu.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\13-Hata_Kontrolleri\01-Try_Catch_Blogu\obj\Debug\01-Try_Catch_Blogu.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\13-Hata_Kontrolleri\01-Try_Catch_Blogu\obj\Debug\01-Try_Catch_Blogu.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\13-Hata_Kontrolleri\01-Try_Catch_Blogu\obj\Debug\01-Try_Catch_Blogu.pdb
