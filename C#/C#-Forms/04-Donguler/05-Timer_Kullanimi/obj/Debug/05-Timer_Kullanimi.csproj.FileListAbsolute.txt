@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\05-Timer_Kullanimi\bin\Debug\05-Timer_Kullanimi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\05-Timer_Kullanimi\bin\Debug\05-Timer_Kullanimi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\05-Timer_Kullanimi\bin\Debug\05-Timer_Kullanimi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\05-Timer_Kullanimi\obj\Debug\_05_Timer_Kullanimi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\05-Timer_Kullanimi\obj\Debug\_05_Timer_Kullanimi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\05-Timer_Kullanimi\obj\Debug\05-Timer_Kullanimi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\05-Timer_Kullanimi\obj\Debug\05-Timer_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\05-Timer_Kullanimi\obj\Debug\05-Timer_Kullanimi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\05-Timer_Kullanimi\obj\Debug\05-Timer_Kullanimi.pdb

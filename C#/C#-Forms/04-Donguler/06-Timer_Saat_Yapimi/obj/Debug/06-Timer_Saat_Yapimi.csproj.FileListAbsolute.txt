@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\06-Timer_Saat_Yapimi\bin\Debug\06-Timer_Saat_Yapimi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\06-Timer_Saat_Yapimi\bin\Debug\06-Timer_Saat_Yapimi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\06-Timer_Saat_Yapimi\bin\Debug\06-Timer_Saat_Yapimi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\06-Timer_Saat_Yapimi\obj\Debug\_06_Timer_Saat_Yapimi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\06-Timer_Saat_Yapimi\obj\Debug\_06_Timer_Saat_Yapimi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\06-Timer_Saat_Yapimi\obj\Debug\06-Timer_Saat_Yapimi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\06-Timer_Saat_Yapimi\obj\Debug\06-Timer_Saat_Yapimi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\06-Timer_Saat_Yapimi\obj\Debug\06-Timer_Saat_Yapimi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\06-Timer_Saat_Yapimi\obj\Debug\06-Timer_Saat_Yapimi.pdb

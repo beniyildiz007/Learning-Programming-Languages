@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\07-ProgressBar_Kullanimi\bin\Debug\07-ProgressBar_Kullanimi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\07-ProgressBar_Kullanimi\bin\Debug\07-ProgressBar_Kullanimi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\07-ProgressBar_Kullanimi\bin\Debug\07-ProgressBar_Kullanimi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\07-ProgressBar_Kullanimi\obj\Debug\_07_ProgressBar_Kullanimi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\07-ProgressBar_Kullanimi\obj\Debug\_07_ProgressBar_Kullanimi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\07-ProgressBar_Kullanimi\obj\Debug\07-ProgressBar_Kullanimi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\07-ProgressBar_Kullanimi\obj\Debug\07-ProgressBar_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\07-ProgressBar_Kullanimi\obj\Debug\07-ProgressBar_Kullanimi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\04-Donguler\07-ProgressBar_Kullanimi\obj\Debug\07-ProgressBar_Kullanimi.pdb
