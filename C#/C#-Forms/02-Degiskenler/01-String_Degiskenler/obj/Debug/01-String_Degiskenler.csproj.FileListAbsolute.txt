@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\01-String_Degiskenler\bin\Debug\01-String_Degiskenler.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\01-String_Degiskenler\bin\Debug\01-String_Degiskenler.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\01-String_Degiskenler\bin\Debug\01-String_Degiskenler.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\01-String_Degiskenler\obj\Debug\_01_String_Degiskenler.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\01-String_Degiskenler\obj\Debug\_01_String_Degiskenler.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\01-String_Degiskenler\obj\Debug\01-String_Degiskenler.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\01-String_Degiskenler\obj\Debug\01-String_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\01-String_Degiskenler\obj\Debug\01-String_Degiskenler.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\01-String_Degiskenler\obj\Debug\01-String_Degiskenler.pdb

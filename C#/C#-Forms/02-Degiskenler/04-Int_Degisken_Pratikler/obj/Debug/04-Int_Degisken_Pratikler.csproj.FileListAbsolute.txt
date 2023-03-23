@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\04-Int_Degisken_Pratikler\bin\Debug\04-Int_Degisken_Pratikler.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\04-Int_Degisken_Pratikler\bin\Debug\04-Int_Degisken_Pratikler.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\04-Int_Degisken_Pratikler\bin\Debug\04-Int_Degisken_Pratikler.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\04-Int_Degisken_Pratikler\obj\Debug\_04_Int_Degisken_Pratikler.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\04-Int_Degisken_Pratikler\obj\Debug\_04_Int_Degisken_Pratikler.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\04-Int_Degisken_Pratikler\obj\Debug\04-Int_Degisken_Pratikler.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\04-Int_Degisken_Pratikler\obj\Debug\04-Int_Degisken_Pratikler.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\04-Int_Degisken_Pratikler\obj\Debug\04-Int_Degisken_Pratikler.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\04-Int_Degisken_Pratikler\obj\Debug\04-Int_Degisken_Pratikler.pdb

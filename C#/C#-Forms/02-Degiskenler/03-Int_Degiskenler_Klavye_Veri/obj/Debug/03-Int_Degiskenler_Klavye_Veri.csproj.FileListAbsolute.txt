@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\03-Int_Degiskenler_Klavye_Veri\obj\Debug\_03_Int_Degiskenler_Klavye_Veri.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\03-Int_Degiskenler_Klavye_Veri\obj\Debug\_03_Int_Degiskenler_Klavye_Veri.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\03-Int_Degiskenler_Klavye_Veri\obj\Debug\03-Int_Degiskenler_Klavye_Veri.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\03-Int_Degiskenler_Klavye_Veri\obj\Debug\03-Int_Degiskenler_Klavye_Veri.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\03-Int_Degiskenler_Klavye_Veri\bin\Debug\03-Int_Degiskenler_Klavye_Veri.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\03-Int_Degiskenler_Klavye_Veri\bin\Debug\03-Int_Degiskenler_Klavye_Veri.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\03-Int_Degiskenler_Klavye_Veri\bin\Debug\03-Int_Degiskenler_Klavye_Veri.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\03-Int_Degiskenler_Klavye_Veri\obj\Debug\03-Int_Degiskenler_Klavye_Veri.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\03-Int_Degiskenler_Klavye_Veri\obj\Debug\03-Int_Degiskenler_Klavye_Veri.pdb
