@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\06-Ornek_Uygulama\bin\Debug\06-Ornek_Uygulama.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\06-Ornek_Uygulama\bin\Debug\06-Ornek_Uygulama.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\06-Ornek_Uygulama\bin\Debug\06-Ornek_Uygulama.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\06-Ornek_Uygulama\obj\Debug\_06_Ornek_Uygulama.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\06-Ornek_Uygulama\obj\Debug\_06_Ornek_Uygulama.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\06-Ornek_Uygulama\obj\Debug\06-Ornek_Uygulama.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\06-Ornek_Uygulama\obj\Debug\06-Ornek_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\06-Ornek_Uygulama\obj\Debug\06-Ornek_Uygulama.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\02-Degiskenler\06-Ornek_Uygulama\obj\Debug\06-Ornek_Uygulama.pdb
