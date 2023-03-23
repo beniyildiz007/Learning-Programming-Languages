@@ -1,0 +1,17 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\bin\Debug\16-N_Katmanli_Mimari_PROJE.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\bin\Debug\16-N_Katmanli_Mimari_PROJE.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\bin\Debug\16-N_Katmanli_Mimari_PROJE.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\obj\Debug\16-N_Katmanli_Mimari_PROJE.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\obj\Debug\_16_N_Katmanli_Mimari_PROJE.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\obj\Debug\_16_N_Katmanli_Mimari_PROJE.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\obj\Debug\16-N_Katmanli_Mimari_PROJE.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\obj\Debug\16-N_Katmanli_Mimari_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\obj\Debug\16-N_Katmanli_Mimari_PROJE.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\obj\Debug\16-N_Katmanli_Mimari_PROJE.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\bin\Debug\DataAccessLayer.dll
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\bin\Debug\EntityLayer.dll
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\bin\Debug\LogicLayer.dll
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\bin\Debug\DataAccessLayer.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\bin\Debug\EntityLayer.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\bin\Debug\LogicLayer.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\16-N_Katmanli_Mimari_PROJE\obj\Debug\16-N_Katmanli_Mimari_PROJE.csproj.CopyComplete
