@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\03-Metin_Belgesi_Okuma\bin\Debug\03-Metin_Belgesi_Okuma.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\03-Metin_Belgesi_Okuma\bin\Debug\03-Metin_Belgesi_Okuma.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\03-Metin_Belgesi_Okuma\bin\Debug\03-Metin_Belgesi_Okuma.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\03-Metin_Belgesi_Okuma\obj\Debug\03-Metin_Belgesi_Okuma.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\03-Metin_Belgesi_Okuma\obj\Debug\_03_Metin_Belgesi_Okuma.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\03-Metin_Belgesi_Okuma\obj\Debug\_03_Metin_Belgesi_Okuma.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\03-Metin_Belgesi_Okuma\obj\Debug\03-Metin_Belgesi_Okuma.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\03-Metin_Belgesi_Okuma\obj\Debug\03-Metin_Belgesi_Okuma.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\03-Metin_Belgesi_Okuma\obj\Debug\03-Metin_Belgesi_Okuma.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\03-Metin_Belgesi_Okuma\obj\Debug\03-Metin_Belgesi_Okuma.pdb

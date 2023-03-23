@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\02-Metin_Belgesi_Olusturma\bin\Debug\02-Metin_Belgesi_Olusturma.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\02-Metin_Belgesi_Olusturma\bin\Debug\02-Metin_Belgesi_Olusturma.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\02-Metin_Belgesi_Olusturma\bin\Debug\02-Metin_Belgesi_Olusturma.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\02-Metin_Belgesi_Olusturma\obj\Debug\_02_Metin_Belgesi_Olusturma.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\02-Metin_Belgesi_Olusturma\obj\Debug\_02_Metin_Belgesi_Olusturma.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\02-Metin_Belgesi_Olusturma\obj\Debug\02-Metin_Belgesi_Olusturma.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\02-Metin_Belgesi_Olusturma\obj\Debug\02-Metin_Belgesi_Olusturma.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\02-Metin_Belgesi_Olusturma\obj\Debug\02-Metin_Belgesi_Olusturma.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\02-Metin_Belgesi_Olusturma\obj\Debug\02-Metin_Belgesi_Olusturma.pdb

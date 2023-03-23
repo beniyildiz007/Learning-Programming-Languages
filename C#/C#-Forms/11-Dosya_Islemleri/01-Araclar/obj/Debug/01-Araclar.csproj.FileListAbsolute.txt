@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\01-Araclar\bin\Debug\01-Araclar.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\01-Araclar\bin\Debug\01-Araclar.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\01-Araclar\bin\Debug\01-Araclar.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\01-Araclar\obj\Debug\01-Araclar.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\01-Araclar\obj\Debug\_01_Araclar.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\01-Araclar\obj\Debug\_01_Araclar.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\01-Araclar\obj\Debug\01-Araclar.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\01-Araclar\obj\Debug\01-Araclar.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\01-Araclar\obj\Debug\01-Araclar.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\01-Araclar\obj\Debug\01-Araclar.pdb
