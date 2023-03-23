@@ -1,0 +1,14 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\bin\Debug\05-PDF_Okuma.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\bin\Debug\05-PDF_Okuma.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\bin\Debug\05-PDF_Okuma.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\obj\Debug\05-PDF_Okuma.csproj.ResolveComReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\obj\Debug\_05_PDF_Okuma.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\obj\Debug\_05_PDF_Okuma.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\obj\Debug\05-PDF_Okuma.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\obj\Debug\05-PDF_Okuma.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\obj\Debug\05-PDF_Okuma.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\05-PDF_Okuma\obj\Debug\05-PDF_Okuma.pdb

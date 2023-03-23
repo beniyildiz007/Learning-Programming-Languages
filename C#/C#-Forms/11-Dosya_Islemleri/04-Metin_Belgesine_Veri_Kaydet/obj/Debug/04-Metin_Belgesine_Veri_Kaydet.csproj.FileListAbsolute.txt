@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\04-Metin_Belgesine_Veri_Kaydet\bin\Debug\04-Metin_Belgesine_Veri_Kaydet.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\04-Metin_Belgesine_Veri_Kaydet\bin\Debug\04-Metin_Belgesine_Veri_Kaydet.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\04-Metin_Belgesine_Veri_Kaydet\bin\Debug\04-Metin_Belgesine_Veri_Kaydet.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\04-Metin_Belgesine_Veri_Kaydet\obj\Debug\_04_Metin_Belgesine_Veri_Kaydet.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\04-Metin_Belgesine_Veri_Kaydet\obj\Debug\_04_Metin_Belgesine_Veri_Kaydet.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\04-Metin_Belgesine_Veri_Kaydet\obj\Debug\04-Metin_Belgesine_Veri_Kaydet.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\04-Metin_Belgesine_Veri_Kaydet\obj\Debug\04-Metin_Belgesine_Veri_Kaydet.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\04-Metin_Belgesine_Veri_Kaydet\obj\Debug\04-Metin_Belgesine_Veri_Kaydet.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\11-Dosya_Islemleri\04-Metin_Belgesine_Veri_Kaydet\obj\Debug\04-Metin_Belgesine_Veri_Kaydet.pdb

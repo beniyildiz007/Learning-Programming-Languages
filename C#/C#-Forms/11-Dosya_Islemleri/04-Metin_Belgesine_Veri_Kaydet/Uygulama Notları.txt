@@ -1,0 +1,5 @@
+Metin belgesi oluşturma ve kaydetme işlemini deniyoruz.
+
+Uygulamanın bulunduğu klasörün içerisine bir metin belgesi oluşturarak burada yazılanları içerisine kaydedeceğiz.
+
+C# Forms uygulamalarında kayda değer bir ilerleme kat edildi.
