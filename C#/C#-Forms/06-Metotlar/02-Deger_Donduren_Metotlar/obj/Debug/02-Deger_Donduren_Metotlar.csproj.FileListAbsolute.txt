@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\02-Deger_Donduren_Metotlar\bin\Debug\02-Deger_Donduren_Metotlar.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\02-Deger_Donduren_Metotlar\bin\Debug\02-Deger_Donduren_Metotlar.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\02-Deger_Donduren_Metotlar\bin\Debug\02-Deger_Donduren_Metotlar.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\02-Deger_Donduren_Metotlar\obj\Debug\_02_Deger_Donduren_Metotlar.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\02-Deger_Donduren_Metotlar\obj\Debug\_02_Deger_Donduren_Metotlar.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\02-Deger_Donduren_Metotlar\obj\Debug\02-Deger_Donduren_Metotlar.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\02-Deger_Donduren_Metotlar\obj\Debug\02-Deger_Donduren_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\02-Deger_Donduren_Metotlar\obj\Debug\02-Deger_Donduren_Metotlar.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\02-Deger_Donduren_Metotlar\obj\Debug\02-Deger_Donduren_Metotlar.pdb

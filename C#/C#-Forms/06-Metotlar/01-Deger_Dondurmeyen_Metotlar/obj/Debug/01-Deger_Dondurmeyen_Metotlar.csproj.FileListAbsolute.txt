@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\01-Deger_Dondurmeyen_Metotlar\bin\Debug\01-Deger_Dondurmeyen_Metotlar.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\01-Deger_Dondurmeyen_Metotlar\bin\Debug\01-Deger_Dondurmeyen_Metotlar.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\01-Deger_Dondurmeyen_Metotlar\bin\Debug\01-Deger_Dondurmeyen_Metotlar.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\01-Deger_Dondurmeyen_Metotlar\obj\Debug\_01_Deger_Dondurmeyen_Metotlar.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\01-Deger_Dondurmeyen_Metotlar\obj\Debug\_01_Deger_Dondurmeyen_Metotlar.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\01-Deger_Dondurmeyen_Metotlar\obj\Debug\01-Deger_Dondurmeyen_Metotlar.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\01-Deger_Dondurmeyen_Metotlar\obj\Debug\01-Deger_Dondurmeyen_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\01-Deger_Dondurmeyen_Metotlar\obj\Debug\01-Deger_Dondurmeyen_Metotlar.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\01-Deger_Dondurmeyen_Metotlar\obj\Debug\01-Deger_Dondurmeyen_Metotlar.pdb

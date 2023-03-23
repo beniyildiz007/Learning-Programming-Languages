@@ -1,0 +1,9 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\03-Kup_Hesaplayan_Metot\bin\Debug\03-Kup_Hesaplayan_Metot.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\03-Kup_Hesaplayan_Metot\bin\Debug\03-Kup_Hesaplayan_Metot.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\03-Kup_Hesaplayan_Metot\bin\Debug\03-Kup_Hesaplayan_Metot.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\03-Kup_Hesaplayan_Metot\obj\Debug\_03_Kup_Hesaplayan_Metot.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\03-Kup_Hesaplayan_Metot\obj\Debug\_03_Kup_Hesaplayan_Metot.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\03-Kup_Hesaplayan_Metot\obj\Debug\03-Kup_Hesaplayan_Metot.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\03-Kup_Hesaplayan_Metot\obj\Debug\03-Kup_Hesaplayan_Metot.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\03-Kup_Hesaplayan_Metot\obj\Debug\03-Kup_Hesaplayan_Metot.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\06-Metotlar\03-Kup_Hesaplayan_Metot\obj\Debug\03-Kup_Hesaplayan_Metot.pdb
