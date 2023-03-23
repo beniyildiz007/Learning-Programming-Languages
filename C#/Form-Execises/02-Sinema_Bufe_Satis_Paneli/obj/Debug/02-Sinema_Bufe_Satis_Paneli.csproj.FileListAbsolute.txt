@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\02-Sinema_Bufe_Satis_Paneli\bin\Debug\02-Sinema_Bufe_Satis_Paneli.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\02-Sinema_Bufe_Satis_Paneli\bin\Debug\02-Sinema_Bufe_Satis_Paneli.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\02-Sinema_Bufe_Satis_Paneli\bin\Debug\02-Sinema_Bufe_Satis_Paneli.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\02-Sinema_Bufe_Satis_Paneli\obj\Debug\02-Sinema_Bufe_Satis_Paneli.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\02-Sinema_Bufe_Satis_Paneli\obj\Debug\_02_Sinema_Bufe_Satis_Paneli.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\02-Sinema_Bufe_Satis_Paneli\obj\Debug\_02_Sinema_Bufe_Satis_Paneli.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\02-Sinema_Bufe_Satis_Paneli\obj\Debug\02-Sinema_Bufe_Satis_Paneli.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\02-Sinema_Bufe_Satis_Paneli\obj\Debug\02-Sinema_Bufe_Satis_Paneli.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\02-Sinema_Bufe_Satis_Paneli\obj\Debug\02-Sinema_Bufe_Satis_Paneli.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\02-Sinema_Bufe_Satis_Paneli\obj\Debug\02-Sinema_Bufe_Satis_Paneli.pdb

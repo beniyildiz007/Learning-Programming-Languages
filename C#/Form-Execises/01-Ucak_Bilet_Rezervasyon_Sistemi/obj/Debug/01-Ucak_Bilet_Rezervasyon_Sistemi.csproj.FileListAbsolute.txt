@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\01-Ucak_Bilet_Rezervasyon_Sistemi\bin\Debug\01-Ucak_Bilet_Rezervasyon_Sistemi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\01-Ucak_Bilet_Rezervasyon_Sistemi\bin\Debug\01-Ucak_Bilet_Rezervasyon_Sistemi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\01-Ucak_Bilet_Rezervasyon_Sistemi\bin\Debug\01-Ucak_Bilet_Rezervasyon_Sistemi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\01-Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\01-Ucak_Bilet_Rezervasyon_Sistemi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\01-Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\_01_Ucak_Bilet_Rezervasyon_Sistemi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\01-Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\_01_Ucak_Bilet_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\01-Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\01-Ucak_Bilet_Rezervasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\01-Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\01-Ucak_Bilet_Rezervasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\01-Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\01-Ucak_Bilet_Rezervasyon_Sistemi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\Projects\01-Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\01-Ucak_Bilet_Rezervasyon_Sistemi.pdb
