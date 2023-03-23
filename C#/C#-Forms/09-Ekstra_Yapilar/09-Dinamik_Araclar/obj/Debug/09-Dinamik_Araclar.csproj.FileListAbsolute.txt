@@ -1,0 +1,10 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\09-Dinamik_Araclar\bin\Debug\09-Dinamik_Araclar.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\09-Dinamik_Araclar\bin\Debug\09-Dinamik_Araclar.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\09-Dinamik_Araclar\bin\Debug\09-Dinamik_Araclar.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\09-Dinamik_Araclar\obj\Debug\09-Dinamik_Araclar.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\09-Dinamik_Araclar\obj\Debug\_09_Dinamik_Araclar.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\09-Dinamik_Araclar\obj\Debug\_09_Dinamik_Araclar.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\09-Dinamik_Araclar\obj\Debug\09-Dinamik_Araclar.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\09-Dinamik_Araclar\obj\Debug\09-Dinamik_Araclar.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\09-Dinamik_Araclar\obj\Debug\09-Dinamik_Araclar.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\09-Ekstra_Yapilar\09-Dinamik_Araclar\obj\Debug\09-Dinamik_Araclar.pdb
