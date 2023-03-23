@@ -1,0 +1,15 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\bin\Debug\10-VeriTabani_SQL_Projesi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\bin\Debug\10-VeriTabani_SQL_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\bin\Debug\10-VeriTabani_SQL_Projesi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\_10_VeriTabani_SQL_Projesi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\10-VeriTabani_SQL_Projesi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\10-VeriTabani_SQL_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\10-VeriTabani_SQL_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\10-VeriTabani_SQL_Projesi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\_10_VeriTabani_SQL_Projesi.Frmistatistik.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\_10_VeriTabani_SQL_Projesi.FrmAnaForm.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\_10_VeriTabani_SQL_Projesi.FrmGrafikler.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\_10_VeriTabani_SQL_Projesi.FrmGiris.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\_10_VeriTabani_SQL_Projesi.FrmRaporlar.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Learning-Programming-Languages\C#\C#-Forms\01-murat_yucedag\10-VeriTabani_SQL_Projesi\obj\Debug\10-VeriTabani_SQL_Projesi.csproj.CopyComplete

@@ -1,0 +1,1 @@
+Data Source=DESKTOP-HKL3D7O\SQLEXPRESS;Initial Catalog=PersonelVeriTabani;Integrated Security=True
