@@ -1,30 +1,55 @@
-# 01- Temel Araç Kullanımları
+>_Büyük fikirler büyük başarılar getirmez, küçük başarılar büyük başarıları inşa eder._
 
-### A-) Merhaba Dünya
 
-### B-) Label Textbox
 
-### C-) Combobox ve Listbox
+## İçindekiler (Contents)
+1. [Temel Araç Kullanımları](#p1)
+    1. [Merhaba Dünya](#o1)
+    2. [Label Textbox](#o2)
+    3. [Combobox ve Listbox](#o3)
+    4. [Maskedbox, Picturebox, Datetime](#o4)
+    5. [Checkbox ve Radiobutton](#o5)
+    6. [Giriş Paneli Uygulaması](#o6)
+2. [Değişkenler](#p2)
+    1. [String Değişkenler](#o7)
+    2. [Int Değişkenler](#o8)
+    3. [Int Değişkenlerde Klavyeden Veri Girişi](#o9)
+    4. [Int Değişkenlerde Pratikler](#o10)
+    5. [Double Değişkenler](#o11)
+    6. [Örnek Uygulama](#o12)
+  
+  
 
-### D-) Maskedbox, Picturebox, Datetime
 
-### E-) Checkbox ve Radiobutton
 
-### F-) Giriş Paneli Uygulaması
 
-# 02- Değişkenler
+# 01- Temel Araç Kullanımları <a name="p1"></a>
 
-### A-) String Değşikenler
+### A-) Merhaba Dünya  <a name="o1"></a>
 
-### B-) Int Değişkenler
+### B-) Label Textbox  <a name="o2"></a>
 
-### C-) Int Değşikenlerde Klavyeden Veri Girişi
+### C-) Combobox ve Listbox  <a name="o3"></a>
 
-### D-) Int Değişkenlerde Pratikller
+### D-) Maskedbox, Picturebox, Datetime  <a name="o4"></a>
 
-### E-) Double Değişkenler
+### E-) Checkbox ve Radiobutton  <a name="o5"></a>
 
-### F-) Örnek Uygulama
+### F-) Giriş Paneli Uygulaması  <a name="o6"></a>
+
+# 02- Değişkenler <a name="p2"></a>
+
+### A-) String Değşikenler  <a name="o7"></a>
+
+### B-) Int Değişkenler  <a name="o8"></a>
+
+### C-) Int Değşikenlerde Klavyeden Veri Girişi  <a name="o9"></a>
+
+### D-) Int Değişkenlerde Pratikller  <a name="o10"></a>
+
+### E-) Double Değişkenler  <a name="o11"></a>
+
+### F-) Örnek Uygulama  <a name="o12"></a>
 
 # 03- Karar Yapıları
 
