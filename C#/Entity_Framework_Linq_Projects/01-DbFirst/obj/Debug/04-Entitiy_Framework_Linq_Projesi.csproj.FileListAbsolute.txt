@@ -1,0 +1,16 @@
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\bin\Debug\04-Entitiy_Framework_Linq_Projesi.exe.config
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\bin\Debug\04-Entitiy_Framework_Linq_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\bin\Debug\04-Entitiy_Framework_Linq_Projesi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\bin\Debug\EntityFramework.dll
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\bin\Debug\EntityFramework.xml
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\obj\Debug\04-Entitiy_Framework_Linq_Projesi.csproj.AssemblyReference.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\obj\Debug\_04_Entitiy_Framework_Linq_Projesi.Form1.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\obj\Debug\_04_Entitiy_Framework_Linq_Projesi.Properties.Resources.resources
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\obj\Debug\04-Entitiy_Framework_Linq_Projesi.csproj.GenerateResource.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\obj\Debug\04-Entitiy_Framework_Linq_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\obj\Debug\04-Entitiy_Framework_Linq_Projesi.csproj.CopyComplete
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\obj\Debug\04-Entitiy_Framework_Linq_Projesi.exe
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\obj\Debug\04-Entitiy_Framework_Linq_Projesi.pdb
+C:\Users\nihat\OneDrive\Belgeler\GitHub\Comprehensive-Projects\04-Entitiy_Framework_Linq_Projesi\obj\Debug\_04_Entitiy_Framework_Linq_Projesi.Form2.resources
