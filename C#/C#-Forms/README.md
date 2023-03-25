@@ -17,6 +17,11 @@
     4. [Int Değişkenlerde Pratikler](#o10)
     5. [Double Değişkenler](#o11)
     6. [Örnek Uygulama](#o12)
+3. [Karar Yapıları](#p3)
+    1. [if-else Koşulu](#o13)
+    2. [Pratik Örnek -1](#o14)
+    3. [Pratik Örnek -2](#o15)
+    4. [Switch-Case Yapısı](#o16)
   
   
 
@@ -51,15 +56,15 @@
 
 ### F-) Örnek Uygulama  <a name="o12"></a>
 
-# 03- Karar Yapıları
+# 03- Karar Yapıları <a name="p3"></a>
 
-### A-) if-else Koşulu
+### A-) if-else Koşulu  <a name="o13"></a>
 
-### B-) Örnek Pratik -1
+### B-) Örnek Pratik -1  <a name="o14"></a>
 
-### C-) Örnek Pratik -2
+### C-) Örnek Pratik -2  <a name="o15"></a>
 
-### D-) Switch-Case Yapısı
+### D-) Switch-Case Yapısı  <a name="o16"></a>
 
 # 04- Döngüler
 
