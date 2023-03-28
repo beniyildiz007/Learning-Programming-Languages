@@ -22,9 +22,14 @@
     2. [Pratik Örnek -1](#o14)
     3. [Pratik Örnek -2](#o15)
     4. [Switch-Case Yapısı](#o16)
-  
-  
-
+4. [Döngüler](#p4)
+    1. [For Döngüsü](#o17)
+    2. [Pratik Örnek](#o18)
+    3. [While Döngüsü](#o19)
+    4. [Do-While Döngüsü](#o20)
+    5. [Timer Kullanımı](#o21)
+    6. [Timer ile Saat Yapımı](#o22)
+    7. [ProgressBar Kullanımı](#o23)
 
 
 
@@ -66,21 +71,21 @@
 
 ### D-) Switch-Case Yapısı  <a name="o16"></a>
 
-# 04- Döngüler
+# 04- Döngüler <a name="p4"></a>
 
-### A-) For Döngüsü
+### A-) For Döngüsü <a name="o17"></a>
 
-### B-) Pratik Örnek
+### B-) Pratik Örnek <a name="o18"></a>
 
-### C-) While Döngüsü
+### C-) While Döngüsü <a name="o19"></a>
 
-### D-) Do-While Döngüsü
+### D-) Do-While Döngüsü <a name="o20"></a>
 
-### E-) Timer Kullanımı
+### E-) Timer Kullanımı <a name="o21"></a>
 
-### F-) Timer ile Saat Yapımı
+### F-) Timer ile Saat Yapımı <a name="o22"></a>
 
-### G-) ProgressBar Kullanımı
+### G-) ProgressBar Kullanımı <a name="o23"></a>
 
 # 05- Diziler
 
