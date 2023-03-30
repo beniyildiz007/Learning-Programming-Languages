@@ -30,6 +30,10 @@
     5. [Timer Kullanımı](#o21)
     6. [Timer ile Saat Yapımı](#o22)
     7. [ProgressBar Kullanımı](#o23)
+5. [Diziler](#p5)
+    1. [Dizi Tanımlama](#o24)
+    2. [Dizi Elemanları Listeleme](#o25)
+    3. [Foreach Döngüsü](#o26)
 
 
 
@@ -87,13 +91,13 @@
 
 ### G-) ProgressBar Kullanımı <a name="o23"></a>
 
-# 05- Diziler
+# 05- Diziler <a name="p5"></a>
 
-### A-) Dizi Tanımlama
+### A-) Dizi Tanımlama <a name="o24"></a>
 
-### B-) Dizi ELemanları Listeleme
+### B-) Dizi ELemanları Listeleme <a name="o25"></a>
 
-### C-) Foreach Döngüsü
+### C-) Foreach Döngüsü <a name="o26"></a>
 
 # 06- Metotlar
 
