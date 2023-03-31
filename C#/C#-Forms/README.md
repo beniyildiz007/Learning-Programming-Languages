@@ -34,6 +34,11 @@
     1. [Dizi Tanımlama](#o24)
     2. [Dizi Elemanları Listeleme](#o25)
     3. [Foreach Döngüsü](#o26)
+6. [Metotlar](#p6)
+    1. [Değer Döndürmeyen Metotlar](#o27)
+    2. [Değer Döndüren Metotlar](#o28)
+    3. [Küp Hesaplayan Metot](#o29)
+
 
 
 
@@ -99,13 +104,13 @@
 
 ### C-) Foreach Döngüsü <a name="o26"></a>
 
-# 06- Metotlar
+# 06- Metotlar <a name="p6"></a>
 
-### A-) Değer Döndürmeyen Metotlar
+### A-) Değer Döndürmeyen Metotlar <a name="o27"></a>
 
-### B-) Değer DÖndüren Metotlar
+### B-) Değer DÖndüren Metotlar <a name="o28"></a>
 
-### C-) Küp Hesaplayan Metot
+### C-) Küp Hesaplayan Metot <a name="o29"></a>
 
 # 07- Sınıflar
 
