@@ -157,12 +157,24 @@ namespace _02_Label_TextBox
 ```
 
 ### C-) Combobox ve Listbox  <a name="o3"></a>
+```c#
+
+```
 
 ### D-) Maskedbox, Picturebox, Datetime  <a name="o4"></a>
+```c#
+
+```
 
 ### E-) Checkbox ve Radiobutton  <a name="o5"></a>
+```c#
+
+```
 
 ### F-) Giriş Paneli Uygulaması  <a name="o6"></a>
+```c#
+
+```
 
 # 02- Değişkenler <a name="p2"></a>
 
