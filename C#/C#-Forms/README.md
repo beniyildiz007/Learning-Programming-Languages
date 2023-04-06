@@ -211,6 +211,9 @@ namespace _02_Label_TextBox
 # 03- Karar Yapıları <a name="p3"></a>
 
 ### A-) if-else Koşulu  <a name="o13"></a>
+```c#
+
+```
 
 ### B-) Örnek Pratik -1  <a name="o14"></a>
 
