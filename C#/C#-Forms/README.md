@@ -179,16 +179,34 @@ namespace _02_Label_TextBox
 # 02- Değişkenler <a name="p2"></a>
 
 ### A-) String Değşikenler  <a name="o7"></a>
+```c#
+
+```
 
 ### B-) Int Değişkenler  <a name="o8"></a>
+```c#
+
+```
 
 ### C-) Int Değşikenlerde Klavyeden Veri Girişi  <a name="o9"></a>
+```c#
+
+```
 
 ### D-) Int Değişkenlerde Pratikller  <a name="o10"></a>
+```c#
+
+```
 
 ### E-) Double Değişkenler  <a name="o11"></a>
+```c#
+
+```
 
 ### F-) Örnek Uygulama  <a name="o12"></a>
+```c#
+
+```
 
 # 03- Karar Yapıları <a name="p3"></a>
 
