@@ -216,10 +216,19 @@ namespace _02_Label_TextBox
 ```
 
 ### B-) Örnek Pratik -1  <a name="o14"></a>
+```c#
+
+```
 
 ### C-) Örnek Pratik -2  <a name="o15"></a>
+```c#
+
+```
 
 ### D-) Switch-Case Yapısı  <a name="o16"></a>
+```c#
+
+```
 
 # 04- Döngüler <a name="p4"></a>
 
