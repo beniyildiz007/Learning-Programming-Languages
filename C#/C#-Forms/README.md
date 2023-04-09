@@ -233,18 +233,39 @@ namespace _02_Label_TextBox
 # 04- Döngüler <a name="p4"></a>
 
 ### A-) For Döngüsü <a name="o17"></a>
+```c#
+
+```
 
 ### B-) Pratik Örnek <a name="o18"></a>
+```c#
+
+```
 
 ### C-) While Döngüsü <a name="o19"></a>
+```c#
+
+```
 
 ### D-) Do-While Döngüsü <a name="o20"></a>
+```c#
+
+```
 
 ### E-) Timer Kullanımı <a name="o21"></a>
+```c#
+
+```
 
 ### F-) Timer ile Saat Yapımı <a name="o22"></a>
+```c#
+
+```
 
 ### G-) ProgressBar Kullanımı <a name="o23"></a>
+```c#
+
+```
 
 # 05- Diziler <a name="p5"></a>
 
