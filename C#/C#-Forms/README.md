@@ -270,10 +270,19 @@ namespace _02_Label_TextBox
 # 05- Diziler <a name="p5"></a>
 
 ### A-) Dizi Tanımlama <a name="o24"></a>
+```c#
+
+```
 
 ### B-) Dizi ELemanları Listeleme <a name="o25"></a>
+```c#
+
+```
 
 ### C-) Foreach Döngüsü <a name="o26"></a>
+```c#
+
+```
 
 # 06- Metotlar <a name="p6"></a>
 
