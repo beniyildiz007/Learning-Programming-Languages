@@ -287,10 +287,19 @@ namespace _02_Label_TextBox
 # 06- Metotlar <a name="p6"></a>
 
 ### A-) Değer Döndürmeyen Metotlar <a name="o27"></a>
+```c#
+
+```
 
 ### B-) Değer DÖndüren Metotlar <a name="o28"></a>
+```c#
+
+```
 
 ### C-) Küp Hesaplayan Metot <a name="o29"></a>
+```c#
+
+```
 
 # 07- Sınıflar <a name="p7"></a>
 
