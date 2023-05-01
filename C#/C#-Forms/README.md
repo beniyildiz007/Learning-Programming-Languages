@@ -304,14 +304,29 @@ namespace _02_Label_TextBox
 # 07- Sınıflar <a name="p7"></a>
 
 ### A-) Sınıf Oluşturma <a name="o30"></a>
+```c#
+
+```
 
 ### B-) Geriye Değer Döndürmeyen Metot <a name="o31"></a>
+```c#
+
+```
 
 ### C-) Geriye Değer Döndüren Metot <a name="o32"></a>
+```c#
+
+```
 
 ### D-) Constructor Metotlar <a name="o33"></a>
+```c#
+
+```
 
 ### E-) Constructor Metotlar -2 <a name="o34"></a>
+```c#
+
+```
 
 # 08- Ekstra Araçlar <a name="p8"></a>
 
