@@ -331,10 +331,19 @@ namespace _02_Label_TextBox
 # 08- Ekstra Araçlar <a name="p8"></a>
 
 ### A-) Menu Strip Kullanımı <a name="o35"></a>
+```c#
+
+```
 
 ### B-) Chart Aracı Kullanımı <a name="o36"></a>
+```c#
+
+```
 
 ### C-) Context Menu Strip Kullanımı <a name="o37"></a>
+```c#
+
+```
 
 # 09- Ekstra Yapılar <a name="p9"></a>
 
