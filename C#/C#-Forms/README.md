@@ -348,10 +348,19 @@ namespace _02_Label_TextBox
 # 09- Ekstra Yapılar <a name="p9"></a>
 
 ### A-) Random Kullanımı <a name="o38"></a>
+```c#
+
+```
 
 ### B-) Sayısal Loto Uygulaması <a name="o39"></a>
+```c#
+
+```
 
 ### C-) Captcha Oluşturma <a name="o40"></a>
+```c#
+
+```
 
 ### D-) Formlar Arası Geçiş <a name="o41"></a>
 
