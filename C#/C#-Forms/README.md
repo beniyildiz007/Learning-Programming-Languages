@@ -363,8 +363,14 @@ namespace _02_Label_TextBox
 ```
 
 ### D-) Formlar Arası Geçiş <a name="o41"></a>
+```c#
+
+```
 
 ### E-) Formlar Arası Veri Taşıma <a name="o42"></a>
+```c#
+
+```
 
 ### F-) Pointer Yapısı <a name="o43"></a>
 
