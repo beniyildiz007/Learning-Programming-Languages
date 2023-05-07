@@ -373,8 +373,14 @@ namespace _02_Label_TextBox
 ```
 
 ### F-) Pointer Yapısı <a name="o43"></a>
+```c#
+
+```
 
 ### G-) Enum Yapısı <a name="o44"></a>
+```c#
+
+```
 
 ### H-) Matematik Fonksiyonları <a name="o45"></a>
 
