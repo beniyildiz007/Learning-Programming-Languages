@@ -383,8 +383,14 @@ namespace _02_Label_TextBox
 ```
 
 ### H-) Matematik Fonksiyonları <a name="o45"></a>
+```c#
+
+```
 
 ### I-) Dinamik Araçlar <a name="o46"></a>
+```c#
+
+```
 
 # 10- Veritabanı SQL Projesi <a name="p10"></a>
 
