@@ -397,6 +397,9 @@ namespace _02_Label_TextBox
 # 11- Dosya İşlemleri <a name="p11"></a>
 
 ### A-) Araçlar
+```c#
+
+```
 
 ### B-) Metin Belgesi Oluşturma
 
