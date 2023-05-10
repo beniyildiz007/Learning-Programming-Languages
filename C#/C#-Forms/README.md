@@ -402,6 +402,9 @@ namespace _02_Label_TextBox
 ```
 
 ### B-) Metin Belgesi Oluşturma
+```c#
+
+```
 
 ### C-) Metin Belgesi Okuma
 
