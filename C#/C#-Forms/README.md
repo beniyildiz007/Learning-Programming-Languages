@@ -407,6 +407,9 @@ namespace _02_Label_TextBox
 ```
 
 ### C-) Metin Belgesi Okuma
+```c#
+
+```
 
 ### D-) Metin Belgesine Veri Kaydet
 
