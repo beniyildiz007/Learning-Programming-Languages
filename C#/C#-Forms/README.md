@@ -422,6 +422,9 @@ namespace _02_Label_TextBox
 ```
 
 # 12- Veritabanı Access Projesi <a name="p12"></a>
+```c#
+
+```
 
 # 13- Hata Kontrolleri (Try-Catch) <a name="p13"></a>
 
