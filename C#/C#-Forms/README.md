@@ -427,6 +427,9 @@ namespace _02_Label_TextBox
 ```
 
 # 13- Hata Kontrolleri (Try-Catch) <a name="p13"></a>
+```c#
+
+```
 
 # 14- İlişkili Tablolar ile E-Okul Projesi <a name="p14"></a>
 
