@@ -432,6 +432,9 @@ namespace _02_Label_TextBox
 ```
 
 # 14- İlişkili Tablolar ile E-Okul Projesi <a name="p14"></a>
+```c#
+
+```
 
 # 15- Entity Framework Projesi <a name="p15"></a>
 
