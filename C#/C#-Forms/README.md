@@ -437,6 +437,9 @@ namespace _02_Label_TextBox
 ```
 
 # 15- Entity Framework Projesi <a name="p15"></a>
+```c#
+
+```
 
 # 16- N Katmanlı Mimari Proje <a name="p16"></a>
 
