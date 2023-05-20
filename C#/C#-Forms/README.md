@@ -444,6 +444,9 @@ namespace _02_Label_TextBox
 # 16- N Katmanlı Mimari Proje <a name="p16"></a>
 
 ### A-) Ana Katman
+```c#
+
+```
 
 ### B-) Data Access Layer
 
