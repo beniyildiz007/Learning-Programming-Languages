@@ -1,8 +1,8 @@
- # 01- Not Kayıt Sİstemi
+# 01- Not Kayıt Sİstemi
  
  
  
- # 02- Parti Seçim İstatistik Grafiği
+# 02- Parti Seçim İstatistik Grafiği
 
 
 
