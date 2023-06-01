@@ -21,3 +21,8 @@
 
 
 # 06- Hareketli Tablo Sorgulama
+
+
+
+
+# 07- İngilizce Kelime Öğrenme Projesi
