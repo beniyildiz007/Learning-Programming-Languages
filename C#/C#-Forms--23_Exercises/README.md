@@ -46,3 +46,8 @@
 
 
 # 11- Mesajlaşma Uygulaması
+
+
+
+
+# 12- Form Üzerinde SQL Editör
