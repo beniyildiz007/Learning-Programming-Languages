@@ -56,3 +56,8 @@
 
 
 # 13- Veritabanı Verilerini Şifreleme
+
+
+
+
+# 14- Banka Simülasyonu
