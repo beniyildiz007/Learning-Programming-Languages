@@ -66,3 +66,8 @@
 
 
 # 15- Etüt Ders Kayıt Sistemi
+
+
+
+
+# 16- Kitaplık Trigger
