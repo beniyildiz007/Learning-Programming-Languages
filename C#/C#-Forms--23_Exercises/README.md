@@ -82,3 +82,8 @@
 
 
 # 18- Benzin İstasyonu
+
+
+
+
+# 19- Resim Üzerine Yazı Yazma
